@@ -1,0 +1,70 @@
+{
+  "id": "manufacturing-risk-management",
+  "title": "Manufacturing Risk Management",
+  "meta": {
+    "title": "Manufacturing Risk Management | RiskMan Consulting",
+    "description": "Optimize operations with RiskMan’s Manufacturing Risk Management. Ensure compliance and operational efficiency.",
+    "primaryKeyword": "Manufacturing Risk Management",
+    "additionalKeywords": [
+      "Operational Efficiency",
+      "Compliance Solutions",
+      "Risk Mitigation"
+    ],
+    "lsiKeywords": [
+      "Process Optimization",
+      "Manufacturing Compliance",
+      "Risk Assessment",
+      "Quality Management",
+      "Supply Chain Risk"
+    ]
+  },
+
+  "hero": {
+    "heading": "Optimize Operations With Manufacturing Risk Management",
+    "subheading": "We help manufacturers reduce operational risks, improve efficiency, and strengthen compliance across production cycles.",
+    "ctaText": "Improve Manufacturing Efficiency",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our manufacturing risk management solutions enhance operational reliability and regulatory compliance.",
+    "items": [
+      { "title": "Process Optimization", "desc": "Streamlining manufacturing workflows for maximum efficiency." },
+      { "title": "Regulatory Compliance", "desc": "Ensuring alignment with industry standards and quality frameworks." },
+      { "title": "Supply Chain Risk", "desc": "Identifying and mitigating risks across logistics and vendor networks." },
+      { "title": "Quality Management", "desc": "Embedding controls to maintain product consistency and safety." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Industrial Manufacturer", "desc": "Reduced downtime by 30% with optimized processes." },
+    { "title": "Textile Unit", "desc": "Achieved full compliance with quality certification standards." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "Lean Manufacturing Risk Framework" },
+    { "title": "Case Study", "desc": "Reducing Risk Across Multi-Plant Operations" },
+    { "title": "Blog", "desc": "Top Manufacturing Compliance Challenges" }
+  ],
+
+  "whyRiskMan": "RiskMan brings industry-specific insights and proven frameworks to help manufacturers improve safety, compliance, and operational performance.",
+
+  "relatedOfferings": [
+    { "label": "Logistics Risk Management", "path": "/services/logistics-risk-management" },
+    { "label": "Energy Risk Management", "path": "/services/energy-risk-management" },
+    { "label": "IT Risk Management", "path": "/services/it-risk-management" }
+  ],
+
+  "cta": {
+    "heading": "Strengthen Your Manufacturing Operations",
+    "text": "Get a comprehensive risk and compliance assessment tailored to your industry.",
+    "button": "Request Assessment",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "Why is manufacturing risk management important?", "a": "It reduces downtime, ensures compliance, and improves overall efficiency." },
+    { "q": "Do you provide supply chain assessments?", "a": "Yes, we assess and mitigate risks across vendors and logistics systems." },
+    { "q": "Can you improve production quality?", "a": "Yes, our quality frameworks enhance consistency and reduce defects." }
+  ]
+}

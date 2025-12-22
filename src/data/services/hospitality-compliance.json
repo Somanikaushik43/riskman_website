@@ -1,0 +1,70 @@
+{
+  "id": "hospitality-compliance",
+  "title": "Hospitality Compliance Solutions",
+  "meta": {
+    "title": "Hospitality Compliance Solutions | RiskMan Consulting",
+    "description": "Enhance guest trust with RiskMan’s Hospitality Compliance services. Ensure data privacy, guest safety, and regulatory adherence.",
+    "primaryKeyword": "Hospitality Compliance",
+    "additionalKeywords": [
+      "Guest Safety",
+      "Data Privacy",
+      "Regulatory Compliance"
+    ],
+    "lsiKeywords": [
+      "Hospitality Security",
+      "Compliance Framework",
+      "Guest Privacy",
+      "Risk Mitigation",
+      "Data Security"
+    ]
+  },
+
+  "hero": {
+    "heading": "Enhance Guest Trust With Hospitality Compliance",
+    "subheading": "We help hotels and hospitality businesses strengthen data privacy, safety frameworks, and compliance readiness.",
+    "ctaText": "Improve Guest Safety",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our Hospitality Compliance services ensure operational safety, data protection, and regulatory compliance across your properties.",
+    "items": [
+      { "title": "Guest Safety Frameworks", "desc": "Implementing protocols to maintain safe and secure guest experiences." },
+      { "title": "Data Privacy Compliance", "desc": "Protecting guest information through privacy and security controls." },
+      { "title": "Regulatory Compliance", "desc": "Ensuring alignment with hospitality-specific regulations and standards." },
+      { "title": "Risk Mitigation Strategies", "desc": "Identifying and reducing risks across hospitality operations." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Luxury Hotel Chain", "desc": "Improved guest data security and achieved full compliance certification." },
+    { "title": "Resort Group", "desc": "Reduced safety risks by 40% through enhanced protocols." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "Hospitality Data Privacy Best Practices" },
+    { "title": "Case Study", "desc": "Reducing Safety Incidents Across Properties" },
+    { "title": "Blog", "desc": "Why Compliance Matters in Hospitality" }
+  ],
+
+  "whyRiskMan": "RiskMan provides industry-specific expertise in hospitality regulations, data security, and safety frameworks.",
+  
+  "relatedOfferings": [
+    { "label": "Retail Compliance", "path": "/services/retail-compliance" },
+    { "label": "Data Privacy", "path": "/services/data-privacy" },
+    { "label": "Cybersecurity Services", "path": "/services/cybersecurity" }
+  ],
+
+  "cta": {
+    "heading": "Build Trust With Strong Compliance",
+    "text": "Protect your guests, secure your data, and strengthen your reputation.",
+    "button": "Request Compliance Audit",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "Why is compliance important in hospitality?", "a": "It ensures guest safety, protects data, and maintains brand trust." },
+    { "q": "Do you help with privacy and security standards?", "a": "Yes, including data governance and cybersecurity frameworks." },
+    { "q": "Can small hotels benefit?", "a": "Absolutely — compliance improves safety and operational quality for all hospitality businesses." }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "soc-services",
+  "title": "SOC Services",
+  "headerImage":"https://devopsstaging.riskman.in/wp-content/uploads/2025/06/soc-banner.webp",
+  "meta": {
+    "title": "SOC Services | RiskMan Consulting",
+    "description": "Ensure trust with RiskMan Consulting’s SOC Services. Achieve cybersecurity compliance and reliable SOC reporting.",
+    "primaryKeyword": "SOC Services",
+    "additionalKeywords": ["Cybersecurity Compliance", "SOC Reporting", "Audit Assurance"],
+    "lsiKeywords": ["SOC 1", "SOC 2", "Security Controls", "Compliance Framework", "Audit Services"]
+  },
+  "hero": {
+    "heading": "Achieve SOC 1 & SOC 2 Compliance with Confidence",
+    "subheading": "Our SOC experts guide you through audit readiness, reporting, and security control implementation.",
+    "ctaText": "Start SOC Compliance",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our SOC services ensure compliance, trust, and operational excellence:",
+    "items": [
+      { "title": "SOC 1 & SOC 2 Readiness", "desc": "Comprehensive preparation for compliance audits." },
+      { "title": "Security Control Assessment", "desc": "Evaluate and strengthen internal security controls." },
+      { "title": "Audit Support & Reporting", "desc": "End-to-end support during SOC audit execution." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "FinTech Startup", "desc": "Achieved SOC 2 Type II compliance in 90 days." },
+    { "title": "IT Services Company", "desc": "Improved audit readiness efficiency by 40%." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Understanding SOC 1 vs SOC 2" },
+    { "title": "Blog", "desc": "Top SOC Mistakes to Avoid" }
+  ],
+  "whyRiskMan": "Our SOC specialists deliver seamless audit preparation with proven frameworks and deep compliance expertise.",
+  "relatedOfferings": [
+    { "label": "Cybersecurity Services", "id": "cybersecurity" },
+    { "label": "ISO Certifications", "id": "iso-certifications" }
+  ],
+  "cta": {
+    "heading": "Become SOC Compliant Today",
+    "text": "Get expert SOC audit preparation and reporting support.",
+    "button": "Talk to SOC Expert",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is SOC Compliance?", "a": "SOC ensures internal controls meet security, privacy, and availability standards." },
+    { "q": "How long does SOC compliance take?", "a": "Typically 8–14 weeks depending on readiness." }
+  ]
+}

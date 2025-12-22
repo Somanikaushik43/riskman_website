@@ -1,0 +1,103 @@
+{
+  "id": "banking-insurance",
+  "title": "Banking & Insurance",
+  "headerImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/banking.webp", 
+  "heroTagline": "From regulatory reforms to cyber threats, RiskMan empowers banks and the insurance industry.",
+  
+  "introduction": {
+    "title": "Transforming Financial Risk into Strategic Advantage",
+    "content": "Banking and insurance institutions operate under high scrutiny, with ever-changing regulatory landscapes, increasing fraud risks, and a mandate for digital transformation. Balancing customer trust, operational efficiency, and governance is no longer optional—it’s mission-critical. RiskMan helps you stay ahead of financial risk, build cyber resilience, ensure compliance, and drive innovation through structured advisory and technology-enabled solutions.",
+    "subImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/bank-empoyee.webp" 
+  },
+
+  "keyChallenges": {
+    "title": "Key Challenges We Help You Overcome:",
+    "list": [
+      {
+        "icon": "Scale",
+        "text": "Stay ahead of compliance with frameworks aligned to RBI, IRDAI, Basel III, SEBI, and global financial standards."
+      },
+      {
+        "icon": "Shield",
+        "text": "Protect sensitive customer data and financial assets with cybersecurity, SOC reporting, and incident response planning."
+      },
+      {
+        "icon": "Users",
+        "text": "Evaluate, onboard, and monitor vendors and partners to reduce exposure to systemic and reputational risks (TPRM)."
+      }
+    ]
+  },
+
+  "solutions": {
+    "title": "Our Solutions for the Banking & Insurance Industry",
+    "list": [
+      {
+        "number": "01",
+        "title": "IT Risk Management",
+        "summary": "Assess, monitor, and mitigate IT and cyber risks to ensure business continuity and regulatory alignment.",
+        "link": "/services/it-risk-management"
+      },
+      {
+        "number": "02",
+        "title": "SOC Audit",
+        "summary": "Build credibility and trust with SOC 1 / SOC 2 / SOC 3 frameworks tailored to financial service providers.",
+        "link": "/services/soc"
+      },
+      {
+        "number": "03",
+        "title": "TPRM",
+        "summary": "Safeguard data and operations by managing supplier, outsourcing, and partner-related risks.",
+        "link": "/services/tprm"
+      },
+      {
+        "number": "04",
+        "title": "Financial Advisory",
+        "summary": "Support strategic decisions with credit rating advisory, debt structuring, and feasibility studies aligned with sector trends.",
+        "link": "/services/financial-advisory"
+      }
+    ]
+  },
+
+  "whyPartner": {
+    "title": "Why Partner with RiskMan",
+    "usps": [
+      { "icon": "Briefcase", "title": "Industry Experience", "summary": "Deep experience in financial services risk, tech, and compliance ecosystems." },
+      { "icon": "Globe", "title": "Global Delivery", "summary": "Global delivery model aligned to regional and international regulations." },
+      { "icon": "Settings", "title": "Tailor Solutions", "summary": "Agile consulting and cyber risk strategies tailored to fast-paced environments." },
+      { "icon": "UserCheck", "title": "Experienced Professionals", "summary": "Our team comprises experts with extensive experience across various industries." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "q": "How do you help banks manage regulatory compliance?",
+        "a": "We support compliance with RBI, Basel III, SEBI, and international frameworks via audits, controls, and documentation."
+      },
+      {
+        "q": "Do you offer cybersecurity solutions tailored to banks and insurers?",
+        "a": "Yes. We provide cybersecurity strategy, VAPT, SOC reporting, and incident response plans specifically designed for BFSI."
+      },
+      {
+        "q": "Can you help us with third-party vendor risk assessments?",
+        "a": "Absolutely. Our TPRM solutions assess, monitor, and reduce risk from outsourcing, fintech partners, and critical vendors."
+      },
+      {
+        "q": "What kind of financial advisory services do you offer?",
+        "a": "Credit rating advisory, debt restructuring, and feasibility studies for banks, NBFCs, and insurance companies."
+      },
+      {
+        "q": "Is SOC 2 compliance relevant for financial services?",
+        "a": "Yes. SOC 1 and SOC 2 help build trust and are often a prerequisite for B2B and regulatory engagements."
+      }
+    ]
+  },
+
+  "stats": {
+    "value": "30+",
+    "label": "Year’s of experience"
+  },
+  
+  "clientLogos": ["Blinkit", "Care-Health-Insurance", "Electrosteel", "Emami", "Jindal-Renewables"] 
+}

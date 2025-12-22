@@ -1,0 +1,48 @@
+{
+  "id": "energy-risk-management",
+  "title": "Energy Risk Management",
+  "meta": {
+    "title": "Energy Risk Management Solutions | RiskMan Consulting",
+    "description": "Power your operations with Energy Risk Management ensuring regulatory compliance, operational stability, and sustainability.",
+    "primaryKeyword": "Energy Risk Management",
+    "additionalKeywords": ["Regulatory Compliance", "Operational Risk", "Sustainability Solutions"],
+    "lsiKeywords": ["Energy Compliance", "Risk Assessment", "Risk Mitigation", "Sustainable Energy", "Governance"]
+  },
+  "hero": {
+    "heading": "Mitigate Energy Sector Risks",
+    "subheading": "Ensure regulatory alignment, operational safety, and sustainability for energy operations.",
+    "ctaText": "Optimize Energy Risks",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Energy Risk Management services include:",
+    "items": [
+      { "title": "Regulatory Compliance Management", "desc": "Navigate energy sector regulations with ease." },
+      { "title": "Operational Risk Assessment", "desc": "Identify vulnerabilities in energy operations and infrastructure." },
+      { "title": "Sustainability Frameworks", "desc": "Align operations with green and renewable energy standards." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Renewable Energy Firm", "desc": "Achieved 100% compliance across multiple sites." },
+    { "title": "Oil & Gas Company", "desc": "Reduced operational incidents by 35%." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Risk Management for Energy Companies" },
+    { "title": "Blog", "desc": "How Sustainability Reduces Energy Risk" }
+  ],
+  "whyRiskMan": "Our deep industry knowledge ensures reliable risk frameworks tailored to energy operations.",
+  "relatedOfferings": [
+    { "label": "Manufacturing Risk Management", "id": "manufacturing-risk" },
+    { "label": "Logistics Risk Management", "id": "logistics-risk" }
+  ],
+  "cta": {
+    "heading": "Optimize Your Energy Operations",
+    "text": "Get a complete energy risk and compliance strategy.",
+    "button": "Start Now",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Why does energy sector need risk management?", "a": "Due to regulatory complexity, operational hazards, and sustainability requirements." },
+    { "q": "Do you support renewable energy firms?", "a": "Yes, we work extensively with solar, wind, and hydro operations." }
+  ]
+}

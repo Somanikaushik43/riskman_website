@@ -1,0 +1,70 @@
+{
+  "id": "ecommerce-security",
+  "title": "E-Commerce Security Solutions",
+  "meta": {
+    "title": "E-Commerce Security Solutions | RiskMan Consulting",
+    "description": "Secure your online business with RiskMan’s E-Commerce Security services. Ensure data privacy and payment security.",
+    "primaryKeyword": "E-Commerce Security",
+    "additionalKeywords": [
+      "Data Privacy",
+      "Payment Security",
+      "Cybersecurity"
+    ],
+    "lsiKeywords": [
+      "E-Commerce Compliance",
+      "Data Protection",
+      "Security Framework",
+      "Cyber Defense",
+      "PCI DSS"
+    ]
+  },
+
+  "hero": {
+    "heading": "Secure Your Online Business With E-Commerce Security",
+    "subheading": "We help digital businesses protect customer data, strengthen cybersecurity, and ensure payment compliance.",
+    "ctaText": "Protect Your Online Store",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our E-Commerce Security services safeguard your data, payment infrastructure, and online platforms.",
+    "items": [
+      { "title": "Data Privacy Compliance", "desc": "Ensuring customer information is securely stored and protected." },
+      { "title": "PCI DSS Compliance", "desc": "Securing payment systems and reducing cardholder data risk." },
+      { "title": "Cybersecurity Frameworks", "desc": "Implementing threat detection and protection strategies." },
+      { "title": "Fraud Prevention", "desc": "Detecting and mitigating online fraud risks." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Fashion E-Commerce Brand", "desc": "Achieved PCI DSS compliance and improved platform security." },
+    { "title": "Electronics Marketplace", "desc": "Reduced fraud cases by 40% through advanced monitoring tools." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "E-Commerce Cybersecurity Framework" },
+    { "title": "Case Study", "desc": "Reducing Fraud for Online Retailers" },
+    { "title": "Blog", "desc": "Top Online Security Risks in 2025" }
+  ],
+
+  "whyRiskMan": "RiskMan secures digital platforms with strong cybersecurity, compliance frameworks, and payment protection measures.",
+
+  "relatedOfferings": [
+    { "label": "PCI DSS Compliance", "path": "/services/pci-dss-compliance" },
+    { "label": "Cybersecurity Services", "path": "/services/cybersecurity" },
+    { "label": "Data Privacy", "path": "/services/data-privacy" }
+  ],
+
+  "cta": {
+    "heading": "Secure Your Digital Business",
+    "text": "Protect payments, customer data, and online infrastructure with robust security solutions.",
+    "button": "Get Security Audit",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "Why is e-commerce security important?", "a": "It protects customer trust and prevents financial losses." },
+    { "q": "Do you help with PCI DSS?", "a": "Yes — we provide full PCI DSS readiness and audit support." },
+    { "q": "Can you prevent online fraud?", "a": "Yes, using risk scoring, monitoring, and secure authentication." }
+  ]
+}

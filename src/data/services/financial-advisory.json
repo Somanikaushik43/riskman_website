@@ -1,0 +1,49 @@
+{
+  "id": "financial-advisory",
+  "title": "Financial Advisory",
+  "headerImage":"https://devopsstaging.riskman.in/wp-content/uploads/2025/06/finance-1024x414.webp",
+  "meta": {
+    "title": "Financial Advisory Services | RiskMan Consulting",
+    "description": "Secure your financial future with RiskMan Consulting’s Financial Advisory services. Expert financial planning and investment strategies.",
+    "primaryKeyword": "Financial Advisory",
+    "additionalKeywords": ["Financial Planning", "Investment Strategy", "Risk Assessment"],
+    "lsiKeywords": ["Wealth Management", "Budget Optimization", "Fiscal Strategy", "Financial Risk"]
+  },
+  "hero": {
+    "heading": "Secure your financial future with RiskMan",
+    "subheading": "Our Financial Advisory experts deliver customized investment and financial planning solutions.",
+    "ctaText": "Talk to Expert",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Financial Advisory services help businesses make informed financial decisions.",
+    "items": [
+      { "title": "Financial Planning", "desc": "Customized plans for long-term financial growth." },
+      { "title": "Investment Strategy", "desc": "Data-driven investment guidance to maximize returns." },
+      { "title": "Risk Assessment", "desc": "Identify and manage financial risks effectively." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Investment Firm", "desc": "Achieved a 15% annual return improvement with our investment strategy." },
+    { "title": "Logistics Company", "desc": "Reduced financial risk exposure by 40%." }
+  ],
+  "resources": [
+    { "title": "Whitepaper", "desc": "Modern Approaches to Financial Planning" },
+    { "title": "Case Study", "desc": "How RiskMan Improved Capital Allocation for a Manufacturing Client" }
+  ],
+  "whyRiskMan": "We combine financial expertise with risk intelligence to deliver actionable advisory insights.",
+  "relatedOfferings": [
+    { "label": "Risk Advisory", "id": "risk-advisory" },
+    { "label": "Forensic Investigation", "id": "forensic-investigation" }
+  ],
+  "cta": {
+    "heading": "Strengthen your financial decisions",
+    "text": "Schedule a Financial Advisory consultation today.",
+    "button": "Book Consultation",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Who needs financial advisory services?", "a": "Businesses that want structured financial planning, improved investments, and risk control." },
+    { "q": "Do you offer investment guidance?", "a": "Yes, we provide tailored investment strategy support." }
+  ]
+}

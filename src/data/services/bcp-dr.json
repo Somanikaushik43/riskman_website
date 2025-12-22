@@ -1,0 +1,49 @@
+{
+  "id": "bcp-dr",
+  "title": "BCP & DR Services",
+  "headerImage":"https://cdn.azeusconvene.com/wp-content/uploads/Why-Your-Business-Needs-a-Business-Continuity-Plan.webp",
+  "meta": {
+    "title": "BCP and DR Services | RiskMan Consulting",
+    "description": "Ensure resilience with RiskMan Consulting’s BCP and DR services. Achieve business continuity and disaster recovery readiness.",
+    "primaryKeyword": "BCP and DR",
+    "additionalKeywords": ["Business Continuity", "Disaster Recovery", "Risk Mitigation"],
+    "lsiKeywords": ["Continuity Planning", "Recovery Strategy", "Business Resilience", "Risk Management", "Emergency Preparedness"]
+  },
+  "hero": {
+    "heading": "Ensure Business Continuity with BCP & DR",
+    "subheading": "Prepare for disruptions and recover operations faster with structured continuity plans.",
+    "ctaText": "Build a Resilient Strategy",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our BCP & DR services include:",
+    "items": [
+      { "title": "Business Continuity Planning", "desc": "Develop end-to-end continuity frameworks for critical processes." },
+      { "title": "Disaster Recovery Planning", "desc": "Ensure fast recovery of IT systems and data after disruptions." },
+      { "title": "Crisis Response Management", "desc": "Structured processes for incident handling and emergency response." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Healthcare Group", "desc": "Restored operations within 4 hours after a major outage." },
+    { "title": "E-Commerce Company", "desc": "Achieved 99.9% uptime with robust DR implementation." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Business Continuity Essentials" },
+    { "title": "Case Study", "desc": "How DR Improved Resilience for Retail" }
+  ],
+  "whyRiskMan": "RiskMan builds tailored continuity strategies ensuring operational resilience and regulatory compliance.",
+  "relatedOfferings": [
+    { "label": "IT Risk Management", "id": "it-risk-management" },
+    { "label": "Cybersecurity", "id": "cybersecurity" }
+  ],
+  "cta": {
+    "heading": "Strengthen Your Business Continuity",
+    "text": "Get a complete BCP & DR strategy designed for your organization.",
+    "button": "Start Planning",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Why is BCP important?", "a": "It ensures operations continue even during disruptions." },
+    { "q": "How often should plans be tested?", "a": "At least twice a year or after major system changes." }
+  ]
+}

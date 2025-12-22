@@ -1,0 +1,86 @@
+{
+  "mainNav": [
+    { "label": "Home", "type": "link", "path": "/" },
+    { "label": "About", "type": "link", "path": "/about" },
+
+    { "label": "Services", "type": "mega", "key": "services" },
+    { "label": "Industries", "type": "mega", "key": "industries" },
+
+    { "label": "Insights", "type": "mega", "key": "insights" },
+
+    { "label": "Contact", "type": "link", "path": "/contact" }
+  ],
+
+  "servicesMegaMenu": [
+    {
+      "title": "Risk Advisory",
+      "subtitle": "Governance • Compliance • Cyber",
+      "items": [
+        { "label": "Risk Advisory", "path": "/services/risk-advisory" },
+        { "label": "Financial Advisory", "path": "/services/financial-advisory" },
+        { "label": "Forensic Investigation", "path": "/services/forensic-investigation" },
+        { "label": "PCI DSS Compliance", "path": "/services/pci-dss-compliance" },
+        { "label": "TPRM", "path": "/services/tprm" },
+        { "label": "ITGC & ITAC", "path": "/services/itgc-itac" },
+        { "label": "Cybersecurity", "path": "/services/cybersecurity" },
+        { "label": "IT Risk Management", "path": "/services/it-risk-management" },
+        { "label": "Data Privacy", "path": "/services/data-privacy" },
+        { "label": "SOC Services", "path": "/services/soc-services" },
+        { "label": "ISO Certifications", "path": "/services/iso-certifications" },
+        { "label": "EPC Risk Management Solutions", "path": "/services/epc-risk-management"}      ]
+    },
+
+    {
+      "title": "Consulting",
+      "subtitle": "Strategy • Operations • Transformation",
+      "items": [
+        { "label": "Business Consulting", "path": "/services/consulting" },
+        { "label": "IT Consulting", "path": "/services/it-consulting" }
+      ]
+    }
+  ],
+
+  "industriesMegaMenu": [
+    {
+      "title": "Core Industries",
+      "items": [
+        { "label": "Banking & Insurance", "path": "/industries/banking-insurance" },
+        { "label": "Healthcare", "path": "/industries/healthcare" },
+        { "label": "Energy & Utilities", "path": "/industries/energy-utilities" },
+        { "label": "Manufacturing", "path": "/industries/manufacturing" },
+        { "label": "Travel & Logistics", "path": "/industries/travel-logistics" }
+      ]
+    },
+
+    {
+      "title": "Technology & Digital",
+      "items": [
+        { "label": "Media & Communication", "path": "/industries/media-communication" },
+        { "label": "Education & EdTech", "path": "/industries/education-edtech" },
+        { "label": "E-Commerce", "path": "/industries/ecommerce" },
+        { "label": "IT Consulting", "path": "/industries/it-consulting" }
+      ]
+    },
+
+    {
+      "title": "Specialized Sectors",
+      "items": [
+        { "label": "Hospitality", "path": "/industries/hospitality" },
+        { "label": "Automobiles", "path": "/industries/automobiles" },
+        { "label": "Retail Consumer", "path": "/industries/retail-consumer" }
+      ]
+    }
+  ],
+
+ "insightsMegaMenu": [
+    {
+      "title": "Insights & Resources",
+      "items": [
+        { "label": "Blog", "path": "/blog" },
+        { "label": "Privacy Policy", "path": "/privacy-policy" },
+        { "label": "Terms & Conditions", "path": "/terms" }
+      ]
+    }
+  ]
+}
+

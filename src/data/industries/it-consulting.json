@@ -1,0 +1,115 @@
+{
+  "id": "it-consulting",
+  "title": "ITeS and IT Consulting",
+  "headerImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/it-consulting-1024x357.webp", 
+  "heroTagline": "We support ITeS and IT consulting firms with frameworks for service delivery, data security, and audit readiness.",
+  
+  "introduction": {
+    "title": "Accelerate Growth While Managing Operational Complexity",
+    "content": "With evolving client demands, remote delivery models, and constant audit pressures, IT firms must ensure they operate at peak security and compliance levels.\n\nRiskMan bridges these gaps with a focused approach to IT risk management, SOC readiness, third-party risk, and ISO certifications.",
+    "subImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/it.webp" 
+  },
+
+  "keyChallenges": {
+    "title": "Key Challenges We Help You Overcome:",
+    "list": [
+      {
+        "icon": "Trophy",
+        "text": "Achieve certifications quickly to improve credibility and win enterprise clients."
+      },
+      {
+        "icon": "Shield",
+        "text": "Secure infrastructure and customer data with multi-layer cybersecurity."
+      },
+      {
+        "icon": "Scale",
+        "text": "Prepare for compliance audits with gap analysis, documentation, and implementation support."
+      }
+    ]
+  },
+
+  "solutions": {
+    "title": "Our Solutions for ITeS & Consulting Firms",
+    "list": [
+      {
+        "number": "01",
+        "title": "Cybersecurity",
+        "summary": "Secure your digital content, networks, and streaming platforms against evolving threats with end-to-end security architecture and incident response.",
+        "link": "/services/cybersecurity"
+      },
+      {
+        "number": "02",
+        "title": "Data Privacy & Protection",
+        "summary": "Ensure GDPR, CCPA, and regional compliance while building trust with your audience through responsible data practices.",
+        "link": "/services/data-privacy-protection"
+      },
+      {
+        "number": "03",
+        "title": "IT Risk Management",
+        "summary": "Assess, monitor, and mitigate risks across tech infrastructure and delivery systems.",
+        "link": "/services/it-risk-management"
+      },
+      {
+        "number": "04",
+        "title": "ISO Certifications",
+        "summary": "Get ISO 27001, 22301, and 31000 certified to enhance service quality and governance.",
+        "link": "/services/iso-certifications"
+      }
+    ]
+  },
+
+  "whyPartner": {
+    "title": "Why Partner with RiskMan",
+    "usps": [
+      { "icon": "Industry", "title": "Industry Experience", "summary": "Deep experience in media risk, tech, and compliance ecosystems" },
+      { "icon": "Global", "title": "Global delivery", "summary": "Global delivery model aligned to regional and international regulations" },
+      { "icon": "Business", "title": "Tailor Solutions", "summary": "Agile consulting and cyber risk strategies tailored to fast-paced environments" },
+      { "icon": "User", "title": "Experienced Professionals", "summary": "Our team comprises experts with extensive experience across various industries." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently asked questions",
+    "questions": [
+      {
+        "q": "What certifications do you support?",
+        "a": "SOC 1, SOC 2, ISO 27001, 22301, 31000, and TISAX."
+      },
+      {
+        "q": "Can you help us with client audits?",
+        "a": "Yes. We provide mock audits, documentation, remediation, and training."
+      },
+      {
+        "q": "How fast can we get ISO certified?",
+        "a": "With readiness, ISO certification can be completed in 2–3 months."
+      },
+      {
+        "q": "Do you offer cybersecurity as a service?",
+        "a": "Yes. We offer end-to-end VAPT, monitoring, and incident response."
+      },
+      {
+        "q": "Can you help us enter international markets?",
+        "a": "Yes, including compliance strategy and risk frameworks."
+      },
+      {
+        "q": "Is TPRM important for IT firms?",
+        "a": "Critical. We help manage subcontractor, partner, and vendor risks."
+      },
+      {
+        "q": "Can we outsource risk functions?",
+        "a": "Yes. We offer risk monitoring and advisory outsourcing."
+      },
+      {
+        "q": "Do you offer support for international expansion?",
+        "a": "Yes, including regulatory guidance, IT infrastructure review, and compliance alignment."
+      }
+    ]
+  },
+
+  "stats": {
+    "value": "30+",
+    "label": "Year’s of experience"
+  },
+  
+  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Emami-logo-2", "Electrosteel-logo", "Indiatv-logo-1", "Care-Health-Insurance", "Blinkit-logo-1-1", "zomato-logo_brandlogos.net_9msh7", "Khadim-logo-3-150x35"]
+}

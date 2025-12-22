@@ -1,0 +1,48 @@
+{
+  "id": "banking-insurance-risk",
+  "title": "Banking & Insurance Risk Management",
+  "meta": {
+    "title": "Banking & Insurance Risk Management | RiskMan Consulting",
+    "description": "Strengthen your financial institution with expert risk management. Ensure compliance, governance, and financial security.",
+    "primaryKeyword": "Banking Risk Management",
+    "additionalKeywords": ["Insurance Compliance", "Financial Risk", "Regulatory Compliance"],
+    "lsiKeywords": ["Risk Assessment", "Financial Security", "Governance", "Fraud Prevention", "Compliance Framework"]
+  },
+  "hero": {
+    "heading": "Strengthen Banking & Insurance Risk Management",
+    "subheading": "Ensure compliance, reduce financial risks, and enhance governance frameworks.",
+    "ctaText": "Enhance Risk Framework",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Banking & Insurance risk services include:",
+    "items": [
+      { "title": "Regulatory Compliance Management", "desc": "Meet RBI, IRDAI, and global regulatory standards." },
+      { "title": "Fraud Risk Management", "desc": "Detect and prevent financial fraud effectively." },
+      { "title": "Credit & Market Risk Assessment", "desc": "Evaluate exposure and strengthen financial stability." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Insurance Leader", "desc": "Reduced risk incidents by 45% through enhanced governance." },
+    { "title": "Banking Institution", "desc": "Achieved full regulatory compliance within 60 days." }
+  ],
+  "resources": [
+    { "title": "Whitepaper", "desc": "Future of Risk in Banking" },
+    { "title": "Blog", "desc": "Managing Insurance Compliance in 2025" }
+  ],
+  "whyRiskMan": "Our financial risk experts deliver tailored compliance, governance, and risk mitigation frameworks.",
+  "relatedOfferings": [
+    { "label": "Financial Advisory", "id": "financial-advisory" },
+    { "label": "Risk Advisory", "id": "risk-advisory" }
+  ],
+  "cta": {
+    "heading": "Improve Financial Risk Governance",
+    "text": "Work with experts to strengthen your risk ecosystem.",
+    "button": "Partner with Us",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Why is risk management critical for banks?", "a": "To maintain financial stability and regulatory compliance." },
+    { "q": "What risks affect insurance firms?", "a": "Operational, market, credit, and compliance risks." }
+  ]
+}

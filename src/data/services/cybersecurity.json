@@ -1,0 +1,49 @@
+{
+  "id": "cybersecurity",
+  "title": "Cybersecurity Services",
+  "headerImage":"https://higherlogicdownload.s3.amazonaws.com/IMWUC/UploadedImages/0fnWgj4vSVyLBp4RklL0_image%20(9)-L.png",
+  "meta": {
+    "title": "Cybersecurity Services | RiskMan Consulting",
+    "description": "Safeguard your business with RiskMan Consulting’s Cybersecurity Services. Ensure data security and threat protection.",
+    "primaryKeyword": "Cybersecurity Services",
+    "additionalKeywords": ["Data Security", "Threat Protection", "Security Compliance"],
+    "lsiKeywords": ["Cyber Defense", "Network Security", "Security Solutions", "Threat Mitigation", "Cybersecurity Framework"]
+  },
+  "hero": {
+    "heading": "Protect your business from cyber threats",
+    "subheading": "RiskMan provides advanced cybersecurity solutions to protect your networks, applications, and data.",
+    "ctaText": "Secure My Business",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our cybersecurity offerings shield your organization from evolving threats:",
+    "items": [
+      { "title": "Network Security", "desc": "Advanced monitoring and protection from cyberattacks." },
+      { "title": "Threat Detection & Response", "desc": "Real-time threat identification and mitigation." },
+      { "title": "Security Governance", "desc": "Comprehensive frameworks ensuring enterprise security posture." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Media Company", "desc": "Prevented major ransomware attack with proactive monitoring." },
+    { "title": "E-Commerce Platform", "desc": "Strengthened security posture and eliminated vulnerabilities." }
+  ],
+  "resources": [
+    { "title": "Blog", "desc": "Top Cybersecurity Threats in 2025" },
+    { "title": "Guide", "desc": "Building a Secure Network Architecture" }
+  ],
+  "whyRiskMan": "We deliver enterprise-grade cybersecurity backed by actionable insights and governance expertise.",
+  "relatedOfferings": [
+    { "label": "Data Privacy & Protection", "id": "data-privacy" },
+    { "label": "SOC Services", "id": "soc-services" }
+  ],
+  "cta": {
+    "heading": "Ready to secure your digital ecosystem?",
+    "text": "Connect with our cybersecurity experts today.",
+    "button": "Contact Cyber Team",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Why is cybersecurity important?", "a": "It prevents data breaches, financial loss, and operational disruptions." },
+    { "q": "Do you offer cybersecurity audits?", "a": "Yes, complete audits for compliance and threat assessment." }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "automotive-risk-management",
+  "title": "Automotive Risk Management",
+  "meta": {
+    "title": "Automotive Risk Management | RiskMan Consulting",
+    "description": "Drive success with RiskMan’s Automotive Risk Management. Ensure compliance, quality assurance, and operational efficiency.",
+    "primaryKeyword": "Automotive Risk Management",
+    "additionalKeywords": [
+      "Operational Efficiency",
+      "Compliance Solutions",
+      "Risk Mitigation"
+    ],
+    "lsiKeywords": [
+      "Automotive Compliance",
+      "Risk Assessment",
+      "Quality Management",
+      "Supply Chain Risk",
+      "Process Optimization"
+    ]
+  },
+
+  "hero": {
+    "heading": "Drive Success With Automotive Risk Management",
+    "subheading": "We help automotive companies reduce operational risk, improve compliance, and enhance product quality.",
+    "ctaText": "Optimize Automotive Operations",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our Automotive Risk services strengthen manufacturing, compliance, and supply chain resilience.",
+    "items": [
+      { "title": "Regulatory Compliance", "desc": "Ensuring alignment with automotive quality and safety standards." },
+      { "title": "Quality Management Systems", "desc": "Enhancing product reliability and reducing defects." },
+      { "title": "Supply Chain Risk", "desc": "Evaluating vendor and logistics vulnerabilities." },
+      { "title": "Process Optimization", "desc": "Improving production efficiency and reducing operational costs." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Automobile Manufacturer", "desc": "Reduced defect rates by 22% using enhanced quality frameworks." },
+    { "title": "Auto Parts Supplier", "desc": "Strengthened supply chain risk visibility across global vendors." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "Automotive Compliance Framework 2025" },
+    { "title": "Case Study", "desc": "Improving Supplier Reliability in Automotive" },
+    { "title": "Blog", "desc": "Top Risks in Automotive Manufacturing" }
+  ],
+
+  "whyRiskMan": "RiskMan combines automotive domain expertise with global risk management standards.",
+  
+  "relatedOfferings": [
+    { "label": "Manufacturing Risk Management", "path": "/services/manufacturing-risk-management" },
+    { "label": "TPRM", "path": "/services/tprm" },
+    { "label": "Cybersecurity Services", "path": "/services/cybersecurity" }
+  ],
+
+  "cta": {
+    "heading": "Accelerate With Strong Risk Management",
+    "text": "Enhance compliance, quality, and operational performance.",
+    "button": "Request Automotive Risk Assessment",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "Why is risk management critical in automotive?", "a": "It ensures safety, compliance, and product quality." },
+    { "q": "Do you work with parts suppliers?", "a": "Yes, including full supply chain audits." },
+    { "q": "Can you help with global compliance?", "a": "Yes — we support international automotive quality standards." }
+  ]
+}

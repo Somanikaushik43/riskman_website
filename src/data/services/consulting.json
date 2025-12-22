@@ -1,0 +1,53 @@
+{
+  "id": "consulting",
+  "title": "Business Consulting",
+  "headerImage":"https://img.freepik.com/free-photo/explaining-project-points_1098-15436.jpg?semt=ais_hybrid&w=740&q=80",
+  "meta": {
+    "title": "Business Consulting Services | RiskMan Consulting",
+    "description": "Transform your business with RiskMan Consulting’s expert Business Consulting services. Achieve strategic planning and operational efficiency.",
+    "primaryKeyword": "Business Consulting",
+    "additionalKeywords": ["Strategic Planning", "Operational Efficiency", "Process Optimization"],
+    "lsiKeywords": ["Management Consulting", "Business Strategy", "Performance Improvement", "Organizational Growth"]
+  },
+  "hero": {
+    "heading": "Transform your business with RiskMan Consulting",
+    "subheading": "Our expertise in Strategic Planning and Operational Efficiency drives Process Optimization for sustainable success.",
+    "ctaText": "Talk to Us",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Business Consulting services include:",
+    "items": [
+      { "title": "Management Consulting", "desc": "Aligning operations with Business Strategy." },
+      { "title": "Performance Improvement", "desc": "Enhancing Operational Efficiency through data-driven insights." },
+      { "title": "Process Redesign", "desc": "Streamlining workflows for Process Optimization." },
+      { "title": "Change Management", "desc": "Supporting Organizational Growth during transitions." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Retail Chain", "desc": "Boosted revenue by 25% through Strategic Planning." },
+    { "title": "Manufacturing Firm", "desc": "Improved Operational Efficiency by 20% via process redesign." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Unlocking Organizational Growth with Business Consulting" },
+    { "title": "Blog", "desc": "The Role of Management Consulting in 2025" }
+  ],
+  "whyRiskMan": "RiskMan’s Consulting Services deliver actionable insights and measurable results, tailored to your industry’s needs.",
+  "relatedOfferings": [
+    { "label": "Risk Advisory", "id": "risk-advisory" },
+    { "label": "Financial Advisory", "id": "financial-advisory" },
+    { "label": "IT Consulting", "id": "it-consulting" }
+  ],
+  "cta": {
+    "heading": "Elevate your business today!",
+    "text": "Schedule a Business Consulting session with RiskMan.",
+    "button": "Get Started",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is Business Consulting?", "a": "Business Consulting helps organizations improve performance through Strategic Planning and Process Optimization." },
+    { "q": "How can consulting improve Operational Efficiency?", "a": "By analyzing workflows and implementing Performance Improvement strategies, we reduce costs and boost productivity." },
+    { "q": "Who needs Business Consulting services?", "a": "Businesses in retail, manufacturing, and IT benefit from Management Consulting for growth." },
+    { "q": "How long does a consulting project take?", "a": "Projects range from 6–16 weeks, depending on scope and objectives." }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "travel-logistics",
+  "title": "Travel and Logistics",
+  "headerImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/logistics-1024x357.webp", 
+  "heroTagline": "RiskMan helps travel and logistics firms streamline operations, ensure compliance, and enhance customer trust across borders.",
+  
+  "introduction": {
+    "title": "Navigating risk and building resilience in global movement",
+    "content": "RiskMan helps travel and logistics firms streamline operations, ensure compliance, and enhance customer trust across borders.\n\nThis industry faces cyber threats, border compliance issues, and supply chain disruptions. Our tailored solutions build agility, security, and resilience across complex ecosystems.",
+    "subImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/travel-employee.webp" 
+  },
+
+  "keyChallenges": {
+    "title": "Key Challenges We Help You Overcome:",
+    "list": [
+      {
+        "icon": "Scale",
+        "text": "Ensure alignment with international travel and transport regulations."
+      },
+      {
+        "icon": "Lock",
+        "text": "Protect booking engines, logistics platforms, and traveler data from evolving threats."
+      },
+      {
+        "icon": "Leaf",
+        "text": "Align with carbon disclosure and green logistics initiatives through ESG-led transformation."
+      }
+    ]
+  },
+
+  "solutions": {
+    "title": "Our Services for Travel & Logistics",
+    "list": [
+      {
+        "number": "01",
+        "title": "Cybersecurity",
+        "summary": "Secure your digital content, networks, and streaming platforms against evolving threats with end-to-end security architecture and incident response.",
+        "link": "/services/cyber-security"
+      },
+      {
+        "number": "02",
+        "title": "Data Privacy & Protection",
+        "summary": "Ensure GDPR, CCPA, and regional compliance while building trust with your audience through responsible data practices.",
+        "link": "/services/data-privacy-protection"
+      },
+      {
+        "number": "03",
+        "title": "TPRM",
+        "summary": "Mitigate risks from production houses, ad tech partners, and distribution vendors with robust third-party evaluation frameworks.",
+        "link": "/services/tprm"
+      },
+      {
+        "number": "04",
+        "title": "ESG Advisory",
+        "summary": "Meet sustainability targets and carbon compliance.",
+        "link": "/services/esg-advisory"
+      }
+    ]
+  },
+
+  "whyPartner": {
+    "title": "Why Partner with RiskMan",
+    "usps": [
+      { "icon": "Industry", "title": "Industry Experience", "summary": "Deep experience in media risk, tech, and compliance ecosystems" },
+      { "icon": "Global", "title": "Global delivery", "summary": "Global delivery model aligned to regional and international regulations" },
+      { "icon": "Business", "title": "Tailor Solutions", "summary": "Agile consulting and cyber risk strategies tailored to fast-paced environments" },
+      { "icon": "User", "title": "Experienced Professionals", "summary": "Our team comprises experts with extensive experience across various industries." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently asked questions",
+    "questions": [
+      {
+        "q": "Can you secure our logistics systems against ransomware?",
+        "a": "Yes. RiskMan provides end-to-end cybersecurity solutions for logistics companies, including ransomware protection, real-time threat monitoring, and endpoint security. Our cyber risk experts design layered defense models that protect mission-critical systems across supply chains."
+      },
+      {
+        "q": "Do you help with global travel regulation compliance?",
+        "a": "Absolutely. Our travel risk advisory services help your organization navigate complex cross-border regulations, including customs, data privacy (GDPR), and aviation or tourism-specific compliance requirements. We ensure your operations stay aligned with local and international mandates."
+      },
+      {
+        "q": "What is TPRM and how does it benefit logistics companies?",
+        "a": "Third-Party Risk Management (TPRM) involves assessing and mitigating risks from external vendors, logistics partners, and technology providers. RiskMan helps logistics firms develop a centralized TPRM framework to reduce disruptions, ensure compliance, and improve supply chain visibility."
+      },
+      {
+        "q": "Can you help us meet ESG or carbon disclosure requirements?",
+        "a": "Yes. RiskMan’s ESG advisory for logistics assists with sustainability assessments, carbon emissions tracking, and regulatory disclosure alignment (e.g., CSRD, SECR). We help travel and fleet operators build sustainable, transparent operations aligned with investor expectations."
+      },
+      {
+        "q": "How fast can BCP/DR strategies be implemented?",
+        "a": "Most Business Continuity Planning (BCP) and Disaster Recovery (DR) programs can be rolled out within 4–8 weeks, depending on infrastructure. Our consultants build tailored continuity plans that ensure minimal service disruption and fast recovery after outages or geopolitical events."
+      },
+      {
+        "q": "Do you offer compliance solutions for booking platforms?",
+        "a": "Yes. RiskMan provides compliance frameworks for booking platforms, including PCI DSS for payments, GDPR for data handling, and cybersecurity audits to prevent breaches. We’ve secured booking and travel tech platforms across North America, Europe, and APAC."
+      },
+      {
+        "q": "Can RiskMan support global fleet operators?",
+        "a": "Definitely. We support fleet management companies and logistics operators with risk assessments, operational compliance, cybersecurity, and ESG alignment—across geographies. Whether your fleet operates regionally or globally, our solutions scale with your footprint."
+      },
+      {
+        "q": "How do we ensure data privacy across regions?",
+        "a": "Our data privacy and protection services cover compliance with global frameworks like GDPR (Europe), CCPA (California), and PDPA (Asia). RiskMan conducts privacy impact assessments and sets up governance models to ensure regional and international data compliance."
+      }
+    ]
+  },
+
+  "stats": {
+    "value": "0+",
+    "label": "Clients"
+  },
+  
+  "clientLogos": ["Blinkit-logo-1-1", "Care-Health-Insurance", "Electrosteel-logo", "Emami-logo-2", "Indiatv-logo-1", "Indorama_Ventures_Logo.svg-2", "Jindal-Renewables"]
+}

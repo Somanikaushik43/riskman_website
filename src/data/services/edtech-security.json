@@ -1,0 +1,48 @@
+{
+  "id": "edtech-security",
+  "title": "EdTech Security Solutions",
+  "meta": {
+    "title": "EdTech Security Solutions | RiskMan Consulting",
+    "description": "Protect learning platforms with EdTech cybersecurity and data privacy solutions. Ensure compliance and secure education systems.",
+    "primaryKeyword": "EdTech Security",
+    "additionalKeywords": ["Data Privacy", "Compliance Solutions", "Cybersecurity"],
+    "lsiKeywords": ["Education Compliance", "Data Protection", "Privacy Framework", "Cyber Defense", "Security Framework"]
+  },
+  "hero": {
+    "heading": "Secure Your EdTech Platform",
+    "subheading": "Protect student data, ensure platform reliability, and meet global education compliance standards.",
+    "ctaText": "Protect EdTech Data",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our EdTech security services include:",
+    "items": [
+      { "title": "Data Privacy Protection", "desc": "Ensure student and parent data is secure and compliant." },
+      { "title": "Platform Security Assessment", "desc": "Identify vulnerabilities in learning platforms and LMS systems." },
+      { "title": "Compliance Readiness", "desc": "Meet FERPA, GDPR, and institutional regulations." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "E-Learning Platform", "desc": "Prevented ransomware threats and improved platform resilience." },
+    { "title": "EdTech Startup", "desc": "Achieved full compliance and improved security posture." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "How to Secure EdTech Platforms" },
+    { "title": "Blog", "desc": "Data Privacy in Online Education" }
+  ],
+  "whyRiskMan": "RiskMan understands the unique risks within EdTech and delivers industry-specific security frameworks.",
+  "relatedOfferings": [
+    { "label": "Cybersecurity", "id": "cybersecurity" },
+    { "label": "Data Privacy", "id": "data-privacy" }
+  ],
+  "cta": {
+    "heading": "Protect Your Learning Platform",
+    "text": "Get a powerful security and privacy strategy for EdTech.",
+    "button": "Secure EdTech",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What makes EdTech vulnerable?", "a": "High data exposure, third-party integrations, and rapid scaling risks." },
+    { "q": "Do you support LMS audits?", "a": "Yes, we audit LMS security, privacy, and compliance." }
+  ]
+}

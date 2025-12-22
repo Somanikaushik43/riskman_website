@@ -1,0 +1,106 @@
+{
+  "id": "outsourcing-training",
+  "title": "Outsourcing & Training",
+  "hero": {
+    "heading": "Optimize operations with Outsourcing Services and Training Programs from RiskMan Consulting.",
+    "subheading": "We enhance Business Process Outsourcing and Workforce Development for efficiency and growth.",
+    "image": "https://img.freepik.com/free-photo/two-young-business-colleagues-using-desktop-pc-reading-email-while-working-together-office-focus-is-man_637285-1067.jpg?semt=ais_hybrid&w=740&q=80"
+  },
+
+  "offerings": {
+    "intro": "Our Outsourcing Services and Training Programs empower organizations to streamline processes, reduce costs, and upskill their workforce.",
+    "items": [
+      {
+        "title": "BPO Services",
+        "desc": "Streamlined Business Process Outsourcing for cost efficiency."
+      },
+      {
+        "title": "Employee Training",
+        "desc": "Customized programs for Skill Development."
+      },
+      {
+        "title": "Process Automation",
+        "desc": "Enhancing operations with Process Automation."
+      },
+      {
+        "title": "Workforce Upskilling",
+        "desc": "Driving Workforce Development through targeted training."
+      }
+    ]
+  },
+
+  "clientSuccess": [
+    {
+      "title": "E-Commerce Firm",
+      "desc": "Reduced costs by 35% with BPO Services."
+    },
+    {
+      "title": "IT Company",
+      "desc": "Improved team performance with tailored Training Programs."
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Maximizing ROI with Outsourcing Solutions",
+      "desc": "A complete e-book explaining how outsourcing reduces operational overhead while boosting productivity.",
+      "link": "/resources/outsourcing-roi"
+    },
+    {
+      "title": "Impact of Employee Training on Productivity",
+      "desc": "A case study showing measurable improvements in workforce development.",
+      "link": "/resources/employee-training-productivity"
+    },
+    {
+      "title": "The Future of Business Process Outsourcing",
+      "desc": "A blog exploring next-generation outsourcing strategies.",
+      "link": "/blog/future-of-bpo"
+    }
+  ],
+
+  "whyRiskMan": "RiskMan’s Outsourcing Services and Training Programs deliver scalable, cost-effective solutions for businesses worldwide.",
+
+  "relatedOfferings": [
+    { "id": "it-consulting", "label": "IT Consulting" },
+    { "id": "consulting", "label": "Business Consulting" },
+    { "id": "data-privacy", "label": "Data Privacy and Protection" }
+  ],
+
+  "cta": {
+    "heading": "Outsource smarter and train better!",
+    "text": "Contact RiskMan for Outsourcing Solutions today.",
+    "button": "Get Started",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    {
+      "q": "What are Outsourcing Services?",
+      "a": "Outsourcing Services delegate non-core tasks to experts, improving efficiency via Business Process Outsourcing."
+    },
+    {
+      "q": "How do Training Programs benefit employees?",
+      "a": "Training Programs enhance skills, boosting Workforce Development and productivity."
+    },
+    {
+      "q": "Which industries use Outsourcing Services?",
+      "a": "Retail, IT, and e-commerce leverage BPO Services for cost savings."
+    },
+    {
+      "q": "What is Process Automation in outsourcing?",
+      "a": "Process Automation streamlines repetitive tasks, enhancing Outsourcing Solutions."
+    },
+    {
+      "q": "How long do Training Programs take?",
+      "a": "Programs range from 1–6 weeks, tailored to Skill Development needs."
+    },
+    {
+      "q": "Why choose RiskMan for Outsourcing Services?",
+      "a": "Our expertise in BPO Services ensures seamless operations and measurable results."
+    },
+    {
+      "q": "Can small businesses benefit from outsourcing?",
+      "a": "Yes, Outsourcing Services help small businesses scale efficiently."
+    }
+  ]
+}

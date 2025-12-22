@@ -1,0 +1,70 @@
+{
+  "id": "epc-risk-management",
+  "title": "EPC Risk Management Solutions",
+  "meta": {
+    "title": "EPC Risk Management Solutions | RiskMan Consulting",
+    "description": "Deliver successful projects with RiskMan’s EPC Risk Management services. Improve compliance, project safety, and operational efficiency.",
+    "primaryKeyword": "EPC Risk Management",
+    "additionalKeywords": [
+      "Project Risk",
+      "Compliance Solutions",
+      "Operational Efficiency"
+    ],
+    "lsiKeywords": [
+      "EPC Compliance",
+      "Risk Assessment",
+      "Project Management",
+      "Quality Assurance",
+      "Risk Mitigation"
+    ]
+  },
+
+  "hero": {
+    "heading": "Deliver Projects With EPC Risk Management",
+    "subheading": "We help engineering, procurement, and construction companies reduce project risks and ensure compliance.",
+    "ctaText": "Optimize EPC Projects",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our EPC Risk Management solutions strengthen project delivery, compliance, and safety.",
+    "items": [
+      { "title": "Project Risk Assessment", "desc": "Identifying risk factors impacting project timelines and cost." },
+      { "title": "Compliance Solutions", "desc": "Ensuring EPC projects meet legal, safety, and environmental standards." },
+      { "title": "Operational Efficiency", "desc": "Optimizing workflows for improved productivity and reduced delays." },
+      { "title": "Quality Assurance", "desc": "Ensuring all deliverables meet required specifications and standards." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Construction Firm", "desc": "Reduced project delays by 30% through proactive risk planning." },
+    { "title": "Infrastructure EPC Contractor", "desc": "Achieved full compliance with zero audit issues." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "EPC Compliance & Project Risk Framework" },
+    { "title": "Case Study", "desc": "Improving Construction Project Delivery Efficiency" },
+    { "title": "Blog", "desc": "Top EPC Risks and How to Mitigate Them" }
+  ],
+
+  "whyRiskMan": "RiskMan enables EPC businesses to handle complex risk, compliance, and operational challenges effectively.",
+
+  "relatedOfferings": [
+    { "label": "TPRM", "path": "/services/tprm" },
+    { "label": "Manufacturing Risk Management", "path": "/services/manufacturing-risk-management" },
+    { "label": "ISO Certifications", "path": "/services/iso-certifications" }
+  ],
+
+  "cta": {
+    "heading": "Deliver Projects With Confidence",
+    "text": "Improve timelines, compliance, and project safety with expert EPC risk management.",
+    "button": "Request EPC Consultation",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "What is EPC Risk Management?", "a": "A structured approach to managing project, compliance, and operational risks in EPC industries." },
+    { "q": "Can it reduce project delays?", "a": "Yes — early risk detection significantly improves delivery timelines." },
+    { "q": "Do you help with compliance audits?", "a": "Yes — we prepare EPC companies for regulatory and safety audits." }
+  ]
+}

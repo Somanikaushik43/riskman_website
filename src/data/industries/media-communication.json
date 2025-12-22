@@ -1,0 +1,99 @@
+{
+  "id": "media-communication",
+  "title": "Media and Communications",
+  "headerImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/media-room-1024x357.webp",
+  "heroTagline": "Securing digital content, ensuring data privacy, and navigating the global media compliance landscape.",
+  
+  "introduction": {
+    "title": "Managing Digital Risk in a Fast-Paced Content Ecosystem",
+    "content": "The Media and Communications sector faces rapid digital transformation, fueled by streaming, mobile platforms, and large volumes of consumer data. This creates complex risks related to content integrity, data privacy (GDPR, CCPA), and rapid technology changes. RiskMan provides tailored advisory to ensure seamless digital operations, secure content delivery, and maintain trust in a highly competitive and regulated environment.",
+    "subImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/anchor.webp"
+  },
+
+  "keyChallenges": {
+    "title": "Key Challenges We Help You Overcome:",
+    "list": [
+      {
+        "icon": "ShieldOff",
+        "text": "Preventing content piracy and unauthorized access across diverse digital distribution channels."
+      },
+      {
+        "icon": "Database",
+        "text": "Ensuring global data privacy compliance (GDPR, CCPA) for large subscriber bases and personalized advertising data."
+      },
+      {
+        "icon": "Activity",
+        "text": "Managing operational resilience (BCP/DR) for live broadcasting, streaming platforms, and critical IT infrastructure."
+      }
+    ]
+  },
+
+  "solutions": {
+    "title": "Our Solutions for the Media & Communications Industry",
+    "list": [
+      {
+        "number": "01",
+        "title": "Data Privacy and Protection",
+        "summary": "Implementation of privacy frameworks (GDPR, CCPA) and audits to secure sensitive customer information.",
+        "link": "/services/data-privacy-protection"
+      },
+      {
+        "number": "02",
+        "title": "Cyber Security",
+        "summary": "Vulnerability assessments, penetration testing, and SOC services to protect critical content delivery platforms.",
+        "link": "/services/cyber-security"
+      },
+      {
+        "number": "03",
+        "title": "Outsourcing and Training",
+        "summary": "BPO and co-sourcing solutions for internal audit and IT governance functions, along with staff training.",
+        "link": "/services/outsourcing-training"
+      },
+      {
+        "number": "04",
+        "title": "IT Risk Management",
+        "summary": "Assessing IT infrastructure risk, cloud security governance, and digital transformation controls.",
+        "link": "/services/it-risk-management"
+      }
+    ]
+  },
+
+  "whyPartner": {
+    "title": "Why Partner with RiskMan",
+    "usps": [
+      { "icon": "Film", "title": "Media Ecosystem Focus", "summary": "Deep experience in media risk, content technology, and compliance ecosystems." },
+      { "icon": "Code", "title": "Platform Resilience", "summary": "Expertise in securing high-traffic streaming and digital content platforms." },
+      { "icon": "Users", "title": "Global Data Compliance", "summary": "Strategies for adhering to diverse international data privacy regulations." },
+      { "icon": "Compass", "title": "Agile Advisory", "summary": "Consulting and risk strategies tailored to fast-paced, high-innovation digital environments." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "q": "How can RiskMan help manage content piracy?",
+        "a": "We help implement strong Digital Rights Management (DRM) controls and conduct security assessments to close distribution vulnerabilities."
+      },
+      {
+        "q": "Is data privacy compliance a major concern for media companies?",
+        "a": "Yes. With large global subscriber bases, compliance with GDPR, CCPA, and regional laws is critical to avoid massive fines."
+      },
+      {
+        "q": "Do you handle IT governance for cloud platforms?",
+        "a": "Absolutely. We specialize in cloud security governance and risk management for AWS, Azure, and GCP environments common in the media industry."
+      },
+      {
+        "q": "What is BCP/DR relevance for broadcasting?",
+        "a": "Business Continuity Planning (BCP) and Disaster Recovery (DR) are essential to ensure uninterrupted broadcasting and streaming services, especially during live events."
+      }
+    ]
+  },
+
+  "stats": {
+    "value": "20+",
+    "label": "Media Clients Served"
+  },
+  
+  "clientLogos": ["BBC", "Netflix-logo", "CNN-logo", "Verizon"]
+}

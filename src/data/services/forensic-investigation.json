@@ -1,0 +1,49 @@
+{
+  "id": "forensic-investigation",
+  "title": "Forensic Investigation",
+  "headerImage":"https://devopsstaging.riskman.in/wp-content/uploads/2025/06/banner-img.webp",
+  "meta": {
+    "title": "Forensic Investigation Services | RiskMan Consulting",
+    "description": "Uncover truth with RiskMan Consulting’s Forensic Investigation services. Expert fraud detection and compliance audit solutions.",
+    "primaryKeyword": "Forensic Investigation",
+    "additionalKeywords": ["Fraud Detection", "Compliance Audit", "Risk Investigation"],
+    "lsiKeywords": ["Forensic Accounting", "Fraud Prevention", "Investigative Services"]
+  },
+  "hero": {
+    "heading": "Uncover truth with Forensic Investigation",
+    "subheading": "Detect fraud, ensure compliance, and protect your organization with expert investigative services.",
+    "ctaText": "Request Investigation",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Forensic Investigation services include:",
+    "items": [
+      { "title": "Fraud Detection", "desc": "Identify fraudulent activities using advanced investigation techniques." },
+      { "title": "Compliance Audits", "desc": "Ensure your operations meet regulatory and internal requirements." },
+      { "title": "Risk Investigation", "desc": "Uncover financial and operational irregularities." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "FinTech Startup", "desc": "Detected internal fraud saving ₹3 crore losses." },
+    { "title": "Retail Chain", "desc": "Resolved compliance gaps across 120 branches." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "How Fraud Happens — And How to Stop It" },
+    { "title": "Blog", "desc": "Top Signs of Internal Fraud in Companies" }
+  ],
+  "whyRiskMan": "RiskMan’s forensic experts bring deep investigative knowledge and powerful tools to uncover truth quickly.",
+  "relatedOfferings": [
+    { "label": "Risk Advisory", "id": "risk-advisory" },
+    { "label": "Financial Advisory", "id": "financial-advisory" }
+  ],
+  "cta": {
+    "heading": "Suspect fraud?",
+    "text": "Let our experts investigate and protect your organization.",
+    "button": "Start Investigation",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is forensic investigation?", "a": "It involves detecting fraud, misconduct, and irregularities using investigative techniques." },
+    { "q": "Do you work with law firms?", "a": "Yes, we support legal teams with evidence and audit trails." }
+  ]
+}

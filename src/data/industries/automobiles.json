@@ -1,0 +1,111 @@
+{
+  "id": "automobiles",
+  "title": "Automobiles",
+  "headerImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/auto-1024x357.webp", 
+  "heroTagline": "RiskMan helps automotive manufacturers and suppliers navigate transformation with confidence and control.",
+  
+  "introduction": {
+    "title": "Turning Automotive Challenges Into Growth",
+    "content": "The automotive industry is undergoing massive disruption—from electric vehicles and autonomous tech to regulatory pressure and supply chain volatility. Manufacturers and OEMs must balance innovation with compliance, while keeping operations agile and secure.\n\nRiskMan helps industry leaders manage emerging risks, build resilient operations, and meet compliance standards without slowing down innovation.",
+    "subImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/auto-employee.webp" 
+  },
+
+  "keyChallenges": {
+    "title": "Key Challenges We Help You Overcome:",
+    "list": [
+      {
+        "icon": "Scale",
+        "text": "Navigate changing global automotive and ESG standards with structured audit and advisory support."
+      },
+      {
+        "icon": "Users",
+        "text": "Mitigate third-party and logistics risk across global supplier networks with real-time risk monitoring."
+      },
+      {
+        "icon": "Shield",
+        "text": "Protect vehicle systems and customer data through robust cybersecurity frameworks and VAPT."
+      }
+    ]
+  },
+
+  "solutions": {
+    "title": "Our Solutions for the Automotive Industry",
+    "list": [
+      {
+        "number": "01",
+        "title": "Sustainability",
+        "summary": "Meet evolving emissions, reporting, and compliance norms through ESG advisory, GHG accounting, and risk assessment.",
+        "link": "/services/sustainability"
+      },
+      {
+        "number": "02",
+        "title": "ISO Certifications",
+        "summary": "Achieve and maintain industry-relevant certifications (ISO 27001, ISO 31000, ISO 22301) to meet customer and regulatory expectations.",
+        "link": "/services/iso-certifications"
+      },
+      {
+        "number": "03",
+        "title": "TISAX Compliance",
+        "summary": "Achieve TISAX assessment readiness to meet automotive-specific data security requirements demanded by OEMs and global suppliers.",
+        "link": "/services/tisax-compliance"
+      },
+      {
+        "number": "04",
+        "title": "SOC Readiness",
+        "summary": "Build trust with structured SOC frameworks for your IT systems and connected platforms—ensuring transparency and audit compliance.",
+        "link": "/services/soc-readiness"
+      }
+    ]
+  },
+
+  "whyPartner": {
+    "title": "Why Partner with RiskMan",
+    "usps": [
+      { "icon": "Industry", "title": "Industry Experience", "summary": "Deep experience in media risk, tech, and compliance ecosystems" },
+      { "icon": "Global", "title": "Global delivery", "summary": "Global delivery model aligned to regional and international regulations" },
+      { "icon": "Business", "title": "Tailor Solutions", "summary": "Agile consulting and cyber risk strategies tailored to fast-paced environments" },
+      { "icon": "User", "title": "Experienced Professionals", "summary": "Our team comprises experts with extensive experience across various industries." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently asked questions",
+    "questions": [
+      {
+        "q": "What regulations do automotive companies need to comply with globally?",
+        "a": "Standards like ISO 26262, ISO 27001, TISAX, and evolving ESG reporting norms."
+      },
+      {
+        "q": "How can we manage risk across our global supply chain?",
+        "a": "We implement third-party risk frameworks to assess, monitor, and mitigate supplier and vendor risks."
+      },
+      {
+        "q": "Do you help with cybersecurity?",
+        "a": "Yes, from VAPT and network security to incident response planning, we secure in-vehicle and backend systems."
+      },
+      {
+        "q": "Which ISO certifications are relevant for auto manufacturers?",
+        "a": "ISO 27001 (information security), ISO 31000 (risk management), ISO 22301 (business continuity), and more."
+      },
+      {
+        "q": "What’s your experience with EV companies or startups?",
+        "a": "We’ve helped EV startups with risk frameworks, ESG advisory, and ISO readiness from early-stage to scale."
+      },
+      {
+        "q": "How fast can we deploy cybersecurity solutions?",
+        "a": "Depending on scope, quick wins can be delivered within weeks using our pre-built frameworks."
+      },
+      {
+        "q": "What makes RiskMan different from IT firms?",
+        "a": "We combine deep media industry expertise with global regulatory knowledge and risk insight."
+      }
+    ]
+  },
+
+  "stats": {
+    "value": "100+",
+    "label": "Companies"
+  },
+  
+  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Emami-logo-2", "Indiatv-logo-1", "Electrosteel-logo", "Khadim-logo-3-150x35", "Blinkit-logo-1-1"] 
+}

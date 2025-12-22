@@ -1,0 +1,48 @@
+{
+  "id": "media-cybersecurity",
+  "title": "Media Cybersecurity Solutions",
+  "meta": {
+    "title": "Media Cybersecurity Solutions | RiskMan Consulting",
+    "description": "Secure media platforms with cybersecurity services ensuring data protection, compliance, and threat mitigation.",
+    "primaryKeyword": "Media Cybersecurity",
+    "additionalKeywords": ["Data Protection", "Network Security", "Compliance Solutions"],
+    "lsiKeywords": ["Cyber Defense", "Media Compliance", "Threat Mitigation", "Security Framework", "Data Security"]
+  },
+  "hero": {
+    "heading": "Protect Media Platforms with Advanced Cybersecurity",
+    "subheading": "Ensure data integrity, content protection, and regulatory compliance for media operations.",
+    "ctaText": "Secure Your Media Network",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Media Cybersecurity services include:",
+    "items": [
+      { "title": "Content Security", "desc": "Protect digital assets and prevent unauthorized distribution." },
+      { "title": "Network Threat Detection", "desc": "Identify and stop cyber threats in real time." },
+      { "title": "Regulatory Compliance Support", "desc": "Meet global media and data handling regulations." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Broadcast Company", "desc": "Reduced piracy attempts by 70% using advanced content protection." },
+    { "title": "Digital Media Platform", "desc": "Strengthened backend cybersecurity and compliance readiness." }
+  ],
+  "resources": [
+    { "title": "Blog", "desc": "Why Cybersecurity Matters in Media" },
+    { "title": "Case Study", "desc": "Securing a Major Streaming Platform" }
+  ],
+  "whyRiskMan": "We combine cybersecurity expertise with media industry insights to deliver robust protection frameworks.",
+  "relatedOfferings": [
+    { "label": "Cybersecurity", "id": "cybersecurity" },
+    { "label": "Data Privacy", "id": "data-privacy" }
+  ],
+  "cta": {
+    "heading": "Protect Your Media Ecosystem",
+    "text": "Get end-to-end cybersecurity for media operations.",
+    "button": "Secure Now",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Why do media companies need cybersecurity?", "a": "To protect content, user data, and digital infrastructure from attacks." },
+    { "q": "Does RiskMan support OTT platforms?", "a": "Yes, we offer complete OTT security assessments and solutions." }
+  ]
+}

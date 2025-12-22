@@ -1,0 +1,74 @@
+[
+  {
+    "id": "automobiles",
+    "title": "Automobiles",
+    "headerImage": "https://static.vecteezy.com/system/resources/thumbnails/037/993/810/small/ai-generated-industrial-manufacturing-worker-on-auto-factory-production-line-photo.jpg",
+    "summary": "RiskMan helps automotive manufacturers and suppliers navigate transformation with confidence and control."
+  },
+  {
+    "id": "banking-insurance",
+    "title": "Banking & Insurance",
+    "headerImage": "https://ebc-training.com/wp-content/uploads/2023/11/Banking-Insurance-and-Financial-Services.jpeg",
+    "summary": "We provide regulatory compliance, risk modeling, and cybersecurity solutions for the financial sector."
+  },
+  {
+    "id": "ecommerce",
+    "title": "E-Commerce",
+    "headerImage": "https://cdn.prod.website-files.com/66450aa390462a415cd93074/66450aa390462a415cd93ca9_ABM_BNI_eCommerce_eBook_Resource-Card_984x540px.jpeg",
+    "summary": "We enable e-commerce businesses to grow with confidence through tailored risk, compliance strategies."
+  },
+  {
+    "id": "education-edtech",
+    "title": "Education and EdTech",
+    "headerImage": "https://img.bgstatic.com/multiLang/image/social/9c1ff752ba6989f32b47e0a87ec17f901765667048146.png",
+    "summary": "Securing student data and ensuring operational compliance for educational institutions and digital learning platforms."
+  },
+  {
+    "id": "energy-utilities",
+    "title": "Energy and Utilities",
+    "headerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj52esTRrqS1owSAjGrilToCo-caQWC2d6uQ&s",
+    "summary": "Mitigating risks across critical infrastructure, supply chains, and environmental, social, and governance (ESG) factors."
+  },
+  {
+    "id": "healthcare",
+    "title": "Healthcare",
+    "headerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlApMMAPePzsZLuRgoYKn_f8AffxHSxdtnUA&s",
+    "summary": "Protecting patient privacy (HIPAA, GDPR) and securing complex digital health ecosystems and medical devices."
+  },
+  {
+    "id": "hospitality",
+    "title": "Hospitality",
+    "headerImage": "https://lesroches.edu/wp-content/uploads/2022/07/Customer_serv-ice_hospitality.jpg",
+    "summary": "Enhancing brand trust, ensuring PCI DSS compliance, and managing global third-party vendor risks for hotels and travel services."
+  },
+  {
+    "id": "it-consulting",
+    "title": "ITeS and IT Consulting",
+    "headerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Dm9yupZGZAN__XWf0I2Mf1PTpXMeD4barg&s",
+    "summary": "We support ITeS and IT consulting firms with frameworks for service delivery, data security, and audit readiness."
+  },
+  {
+    "id": "manufacturing",
+    "title": "Manufacturing",
+    "headerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYD1hkn_oLOnxeSx0N3DTwXK3PWVwFEee_A&s",
+    "summary": "Securing operational technology (OT), managing supply chain vulnerabilities, and ensuring quality and compliance across production."
+  },
+  {
+    "id": "media-communication",
+    "title": "Media and Communication",
+    "headerImage": "https://img.etimg.com/thumb/width-1200,height-1200,imgsize-106056,resizemode-75,msid-92499946/industry/media/entertainment/media/raising-the-curtain-media-industry-and-the-changing-landscape.jpg",
+    "summary": "Navigating digital transformation, content piracy, and complex data privacy regulations in the media industry."
+  },
+  {
+    "id": "retail-consumer",
+    "title": "Retail & Consumer",
+    "headerImage": "https://www.ibef.org/assets/images/Retail-Industry-3.jpg",
+    "summary": "We empower retailers to meet data, operational, and regulatory challenges with advisory and security frameworks."
+  },
+  {
+    "id": "travel-logistics",
+    "title": "Travel and Logistics",
+    "headerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq538VgBEcZxc6l_AuDC_qvGZgctzLEYgf6A&s",
+    "summary": "Managing dynamic supply chain risks, data security, and compliance for passenger and cargo transport operations."
+  }
+]

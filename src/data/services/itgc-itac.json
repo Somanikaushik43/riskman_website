@@ -1,0 +1,49 @@
+{
+  "id": "itgc-itac",
+  "title": "ITGC & ITAC",
+  "headerImage":"https://media.licdn.com/dms/image/v2/D5622AQEhlFgoH7YmQA/feedshare-shrink_800/feedshare-shrink_800/0/1727463401739?e=2147483647&v=beta&t=j8GS1J7sR44dpColRGrkUvK3Q2LpeviHY60lqSdL0NU",
+  "meta": {
+    "title": "ITGC and ITAC Services | RiskMan Consulting",
+    "description": "Strengthen IT with RiskMan Consulting’s ITGC and ITAC services. Ensure IT controls and compliance audit readiness.",
+    "primaryKeyword": "ITGC and ITAC",
+    "additionalKeywords": ["IT Controls", "Compliance Audit", "IT Governance"],
+    "lsiKeywords": ["IT General Controls", "IT Application Controls", "Security Compliance", "Audit Readiness", "IT Risk"]
+  },
+  "hero": {
+    "heading": "Strengthen Your IT Controls",
+    "subheading": "Ensure robust general and application controls for audit compliance.",
+    "ctaText": "Strengthen IT Controls",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our ITGC & ITAC services include:",
+    "items": [
+      { "title": "IT General Controls Assessment", "desc": "Review access, change, and operations controls." },
+      { "title": "Application Controls Testing", "desc": "Verify accuracy, integrity, and authorization of systems." },
+      { "title": "Audit Readiness Support", "desc": "Prepare IT systems and applications for compliance audits." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Banking Firm", "desc": "Achieved complete regulatory IT control compliance." },
+    { "title": "Insurance Company", "desc": "Improved ITGC maturity by 45%." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Understanding ITGC & ITAC" },
+    { "title": "Blog", "desc": "Why IT Controls Matter" }
+  ],
+  "whyRiskMan": "We bring deep IT governance experience to help you build compliant and audit-ready IT control environments.",
+  "relatedOfferings": [
+    { "label": "IT Risk Management", "id": "it-risk-management" },
+    { "label": "Cybersecurity", "id": "cybersecurity" }
+  ],
+  "cta": {
+    "heading": "Enhance Your IT Control Environment",
+    "text": "Get expert ITGC and ITAC support to ensure compliance.",
+    "button": "Improve IT Controls",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What are ITGCs?", "a": "IT General Controls support secure and reliable IT operations." },
+    { "q": "Why do ITACs matter?", "a": "They ensure transactions and data in applications are accurate and authorized." }
+  ]
+}

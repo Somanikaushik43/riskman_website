@@ -1,0 +1,107 @@
+{
+  "id": "esg-advisory",
+  "title": "ESG Advisory",
+
+  "hero": {
+    "heading": "Drive sustainability with ESG Advisory from RiskMan Consulting.",
+    "subheading": "Our Sustainability Consulting and Corporate Responsibility solutions ensure Environmental Compliance for a better future.",
+    "image": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/plantation.webp"
+  },
+
+  "offerings": {
+    "intro": "Our ESG Advisory services provide strategic solutions for sustainability-driven organizations.",
+    "items": [
+      {
+        "title": "ESG Strategy",
+        "desc": "Aligning business goals with Sustainable Business practices."
+      },
+      {
+        "title": "Green Initiatives",
+        "desc": "Implementing eco-friendly solutions for Environmental Compliance."
+      },
+      {
+        "title": "Social Impact Programs",
+        "desc": "Enhancing Corporate Responsibility."
+      },
+      {
+        "title": "Governance Framework",
+        "desc": "Strengthening oversight for ESG compliance."
+      }
+    ]
+  },
+
+  "clientSuccess": [
+    {
+      "title": "Energy Firm",
+      "desc": "Reduced carbon footprint by 40% with Green Initiatives."
+    },
+    {
+      "title": "Retail Brand",
+      "desc": "Improved Social Impact scores through community programs."
+    }
+  ],
+
+  "resources": [
+    {
+      "title": "Building a Sustainable Business in 2025",
+      "desc": "A complete guide to future-ready corporate sustainability strategies.",
+      "link": "/resources/sustainable-business-2025"
+    },
+    {
+      "title": "Mastering ESG Strategy",
+      "desc": "A webinar exploring modern ESG integration frameworks.",
+      "link": "/resources/webinar-esg-strategy"
+    },
+    {
+      "title": "Why Corporate Responsibility Matters",
+      "desc": "An in-depth blog on CSR and long-term value creation.",
+      "link": "/blog/corporate-responsibility"
+    }
+  ],
+
+  "whyRiskMan": "RiskMan’s ESG Advisory services combine expertise and innovation to deliver impactful Sustainability Consulting.",
+
+  "relatedOfferings": [
+    { "id": "risk-advisory", "label": "Risk Advisory" },
+    { "id": "financial-advisory", "label": "Financial Advisory" },
+    { "id": "data-privacy", "label": "Data Privacy and Protection" }
+  ],
+
+  "cta": {
+    "heading": "Go green with RiskMan!",
+    "text": "Schedule an ESG Advisory consultation today.",
+    "button": "Book Consultation",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    {
+      "q": "What is ESG Advisory?",
+      "a": "ESG Advisory helps businesses integrate Environmental Compliance, social, and governance factors."
+    },
+    {
+      "q": "How does ESG Advisory benefit businesses?",
+      "a": "It enhances Sustainable Business practices, improving reputation and profitability."
+    },
+    {
+      "q": "Which industries need ESG Advisory?",
+      "a": "Energy, manufacturing, and retail benefit from Sustainability Consulting."
+    },
+    {
+      "q": "What is an ESG Strategy?",
+      "a": "An ESG Strategy aligns operations with Green Initiatives and Social Impact goals."
+    },
+    {
+      "q": "How long does an ESG Advisory project take?",
+      "a": "Projects typically last 8–16 weeks, depending on Governance Framework needs."
+    },
+    {
+      "q": "Why choose RiskMan for ESG Advisory?",
+      "a": "Our tailored Sustainability Consulting ensures measurable ESG outcomes."
+    },
+    {
+      "q": "Can ESG Advisory improve brand reputation?",
+      "a": "Yes, Corporate Responsibility initiatives boost trust and loyalty."
+    }
+  ]
+}

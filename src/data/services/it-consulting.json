@@ -1,0 +1,70 @@
+{
+  "id": "it-consulting",
+  "title": "IT Consulting Solutions",
+  "meta": {
+    "title": "IT Consulting Solutions | RiskMan Consulting",
+    "description": "Transform IT with RiskMan's IT Consulting services. Strengthen cybersecurity, IT governance, and operational efficiency.",
+    "primaryKeyword": "IT Consulting",
+    "additionalKeywords": [
+      "Cybersecurity",
+      "Data Privacy",
+      "Operational Efficiency"
+    ],
+    "lsiKeywords": [
+      "IT Services",
+      "Security Solutions",
+      "Data Protection",
+      "IT Governance",
+      "Process Optimization"
+    ]
+  },
+
+  "hero": {
+    "heading": "Transform IT With Expert Consulting",
+    "subheading": "We help businesses modernize IT systems, enhance cybersecurity, and improve operational efficiency.",
+    "ctaText": "Consult IT Experts",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our IT Consulting services cover modernization, governance, security, and operational improvement.",
+    "items": [
+      { "title": "Cybersecurity Enhancement", "desc": "Implementing frameworks to protect systems from threats." },
+      { "title": "Data Protection & Privacy", "desc": "Ensuring data security through compliance and governance." },
+      { "title": "IT Governance", "desc": "Strengthening control structures across IT processes." },
+      { "title": "Operational Optimization", "desc": "Improving IT workflows, automation, and system reliability." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Tech Enterprise", "desc": "Boosted security posture with advanced threat monitoring." },
+    { "title": "Financial Institution", "desc": "Improved IT governance and reduced audit findings by 40%." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "IT Modernization Blueprint 2025" },
+    { "title": "Case Study", "desc": "Transforming IT Operations for a Global Bank" },
+    { "title": "Blog", "desc": "Top IT Risks and Solutions for 2025" }
+  ],
+
+  "whyRiskMan": "RiskMan brings deep cybersecurity, compliance, and IT governance expertise tailored to your industry.",
+
+  "relatedOfferings": [
+    { "label": "Cybersecurity Services", "path": "/services/cybersecurity" },
+    { "label": "IT Risk Management", "path": "/services/it-risk-management" },
+    { "label": "Data Privacy & Protection", "path": "/services/data-privacy" }
+  ],
+
+  "cta": {
+    "heading": "Upgrade Your IT Operations",
+    "text": "Strengthen your systems, reduce risks, and improve efficiency with expert consulting.",
+    "button": "Request IT Consultation",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "What does IT Consulting include?", "a": "Cybersecurity, IT governance, modernization, and operations optimization." },
+    { "q": "Can you help with cloud migration?", "a": "Yes — we assist with planning, migration, and securing cloud environments." },
+    { "q": "Do you provide cybersecurity frameworks?", "a": "Yes, including NIST, ISO 27001, and Zero Trust models." }
+  ]
+}

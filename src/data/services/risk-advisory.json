@@ -1,0 +1,58 @@
+{
+  "id": "risk-advisory",
+  "title": "Risk Advisory",
+  "headerImage":"https://www.riskman.in/wp-content/uploads/2023/01/trusted-advisor.jpg",
+  "meta": {
+    "title": "Risk Advisory Services | RiskMan Consulting",
+    "description": "Discover expert Risk Advisory services from RiskMan Consulting. Mitigate business risks with tailored risk management and compliance solutions.",
+    "primaryKeyword": "Risk Advisory",
+    "additionalKeywords": ["Risk Management", "Compliance Solutions", "Business Risk"],
+    "lsiKeywords": ["Risk Assessment", "Enterprise Risk", "Risk Mitigation", "Governance", "Risk Consulting"]
+  },
+  "hero": {
+    "heading": "Navigate uncertainties With RiskMan",
+    "subheading": "Our expert solutions protect your business from Business Risks, ensuring sustainable growth.",
+    "ctaText": "Talk to Us",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Risk Advisory services deliver comprehensive Risk Assessment and Enterprise Risk strategies. We provide:",
+    "items": [
+      { "title": "Risk Consulting", "desc": "Tailored solutions for Risk Mitigation and strategic planning." },
+      { "title": "Governance", "desc": "Robust frameworks to strengthen oversight." },
+      { "title": "Compliance Audits", "desc": "Ensuring adherence to regulatory standards." },
+      { "title": "Risk Identification", "desc": "Proactive measures to address Business Risks." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Global Bank", "desc": "Reduced operational risks by 30% through our Risk Management framework." },
+    { "title": "Tech Firm", "desc": "Achieved 100% compliance with GDPR via our Compliance Solutions." }
+  ],
+  "resources": [
+    { "title": "Whitepaper", "desc": "Mastering Enterprise Risk in 2025" },
+    { "title": "Case Study", "desc": "Risk Mitigation in High-Growth Industries" },
+    { "title": "Blog", "desc": "Why Governance Matters for Business Success" }
+  ],
+  "whyRiskMan": "Choose RiskMan for unparalleled expertise in Risk Advisory. Our team combines deep industry knowledge with innovative Risk Consulting to deliver measurable results.",
+  "relatedOfferings": [
+    { "label": "Financial Advisory", "id": "financial-advisory" },
+    { "label": "IT Risk Management", "id": "it-risk-management" },
+    { "label": "Data Privacy and Protection", "id": "data-privacy" }
+  ],
+  "cta": {
+    "heading": "Ready to mitigate risks?",
+    "text": "Contact RiskMan Consulting for a free Risk Assessment today!",
+    "button": "Contact Us",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is Risk Advisory?", "a": "Risk Advisory involves identifying, assessing, and mitigating Business Risks to ensure organizational resilience." },
+    { "q": "How does Risk Management benefit my business?", "a": "Risk Management enhances decision-making, reduces losses, and ensures Compliance Solutions for long-term success." },
+    { "q": "What industries need Risk Advisory services?", "a": "Industries like banking, healthcare, and IT benefit from Risk Consulting to address unique Enterprise Risks." },
+    { "q": "How does RiskMan ensure compliance?", "a": "We conduct thorough audits and implement Governance frameworks to meet regulatory standards." },
+    { "q": "What is the cost of Risk Advisory services?", "a": "Costs vary based on scope. Contact us for a tailored Risk Assessment quote." },
+    { "q": "How long does a Risk Advisory engagement take?", "a": "Engagements typically last 4–12 weeks, depending on complexity and Risk Mitigation needs." },
+    { "q": "Can Risk Advisory improve business efficiency?", "a": "Yes, by streamlining processes and reducing Business Risks, efficiency improves significantly." },
+    { "q": "Why choose RiskMan for Risk Advisory?", "a": "Our expertise in Risk Consulting and proven track record ensure customized, effective solutions." }
+  ]
+}

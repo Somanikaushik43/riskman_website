@@ -1,0 +1,70 @@
+{
+  "id": "retail-compliance",
+  "title": "Retail Compliance Solutions",
+  "meta": {
+    "title": "Retail Compliance Solutions | RiskMan Consulting",
+    "description": "Ensure customer trust with RiskMan’s Retail Compliance services. Strengthen data privacy and regulatory alignment.",
+    "primaryKeyword": "Retail Compliance",
+    "additionalKeywords": [
+      "Data Privacy",
+      "Risk Management",
+      "Customer Trust"
+    ],
+    "lsiKeywords": [
+      "Retail Security",
+      "Compliance Framework",
+      "Data Protection",
+      "Risk Mitigation",
+      "Consumer Protection"
+    ]
+  },
+
+  "hero": {
+    "heading": "Ensure Trust With Retail Compliance",
+    "subheading": "Protect customer data, strengthen compliance, and build trust across your retail operations.",
+    "ctaText": "Secure Your Retail Operations",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our Retail Compliance services help you protect customer data and meet industry regulations.",
+    "items": [
+      { "title": "Customer Data Protection", "desc": "Ensuring secure handling and storage of retail customer information." },
+      { "title": "Privacy Policy Compliance", "desc": "Meeting GDPR, CPRA, and global retail privacy standards." },
+      { "title": "Operational Risk Management", "desc": "Identifying and reducing risks across retail operations." },
+      { "title": "Consumer Protection Practices", "desc": "Enhancing security and trust to improve customer loyalty." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Supermarket Chain", "desc": "Achieved privacy compliance across all locations." },
+    { "title": "E-Commerce Retailer", "desc": "Improved customer trust with advanced security frameworks." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "Retail Security and Compliance Handbook" },
+    { "title": "Case Study", "desc": "Improving Data Protection in Large Retail Stores" },
+    { "title": "Blog", "desc": "How Compliance Builds Customer Trust in Retail" }
+  ],
+
+  "whyRiskMan": "RiskMan understands retail-specific risks and delivers robust compliance and protection frameworks.",
+
+  "relatedOfferings": [
+    { "label": "E-Commerce Security", "path": "/services/ecommerce-security" },
+    { "label": "Data Privacy", "path": "/services/data-privacy" },
+    { "label": "PCI DSS Compliance", "path": "/services/pci-dss-compliance" }
+  ],
+
+  "cta": {
+    "heading": "Strengthen Your Retail Compliance",
+    "text": "Protect your customers and build long-term trust.",
+    "button": "Get Compliance Audit",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "Which regulations apply to retail?", "a": "GDPR, CPRA, PCI DSS, and consumer protection laws." },
+    { "q": "Can you help secure customer data?", "a": "Yes — we implement strong privacy and security frameworks." },
+    { "q": "Is retail compliance expensive?", "a": "Costs vary by store size — but non-compliance costs much more." }
+  ]
+}

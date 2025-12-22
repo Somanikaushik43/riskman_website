@@ -1,0 +1,49 @@
+{
+  "id": "tprm",
+  "title": "Third-Party Risk Management (TPRM)",
+  "headerImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7oUCp9GBJvVt16uIPFcV1f9GbzoA39Yq104q62dyjVA&s",
+  "meta": {
+    "title": "TPRM Services | RiskMan Consulting",
+    "description": "Manage third-party risks with RiskMan Consulting’s TPRM services. Ensure vendor management and risk mitigation.",
+    "primaryKeyword": "TPRM",
+    "additionalKeywords": ["Third-Party Risk", "Vendor Management", "Risk Mitigation"],
+    "lsiKeywords": ["Vendor Risk", "Supply Chain Risk", "Third-Party Compliance", "Risk Assessment", "Vendor Security"]
+  },
+  "hero": {
+    "heading": "Manage Third-Party Risks Effectively",
+    "subheading": "Identify, assess, and mitigate risks across your vendor ecosystem.",
+    "ctaText": "Strengthen Vendor Security",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our TPRM services include:",
+    "items": [
+      { "title": "Vendor Risk Assessment", "desc": "Evaluate third-party cybersecurity and operational gaps." },
+      { "title": "Compliance Monitoring", "desc": "Ensure all vendors meet required regulatory standards." },
+      { "title": "Ongoing Vendor Governance", "desc": "Maintain a secure supply chain with continuous monitoring." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Logistics Company", "desc": "Mitigated supply chain risks and improved vendor compliance." },
+    { "title": "Retail Group", "desc": "Achieved 100% vendor compliance alignment." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Building a Strong TPRM Program" },
+    { "title": "Blog", "desc": "Why Vendor Risk Matters" }
+  ],
+  "whyRiskMan": "RiskMan builds scalable TPRM frameworks covering risk scoring, compliance, and continuous monitoring.",
+  "relatedOfferings": [
+    { "label": "IT Risk Management", "id": "it-risk-management" },
+    { "label": "Cybersecurity", "id": "cybersecurity" }
+  ],
+  "cta": {
+    "heading": "Secure Your Vendor Ecosystem",
+    "text": "Get a complete TPRM program tailored to your business.",
+    "button": "Start TPRM",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is TPRM?", "a": "It manages risks associated with third-party vendors and partners." },
+    { "q": "Why is TPRM important?", "a": "Vendors introduce operational, cybersecurity, and compliance risks." }
+  ]
+}

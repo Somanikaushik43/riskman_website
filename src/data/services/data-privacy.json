@@ -1,0 +1,49 @@
+{
+  "id": "data-privacy",
+  "title": "Data Privacy & Protection",
+  "headerImage":"https://www.pwc.com/glob/dpe/en/inline-images/adobestock-507058455.jpg",
+  "meta": {
+    "title": "Data Privacy & Protection Services | RiskMan Consulting",
+    "description": "Protect sensitive data with RiskMan Consulting’s Data Privacy services. Ensure data protection and privacy compliance.",
+    "primaryKeyword": "Data Privacy",
+    "additionalKeywords": ["Data Protection", "Privacy Compliance", "Data Security"],
+    "lsiKeywords": ["GDPR Compliance", "Data Governance", "Privacy Framework", "Data Breach Prevention", "Security Compliance"]
+  },
+  "hero": {
+    "heading": "Protect your sensitive data with RiskMan",
+    "subheading": "We help you comply with privacy laws and secure critical business information.",
+    "ctaText": "Strengthen Privacy",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our Data Privacy & Protection services include:",
+    "items": [
+      { "title": "Data Protection Frameworks", "desc": "Security controls to safeguard sensitive information." },
+      { "title": "Privacy Compliance", "desc": "GDPR, DPDP, and global privacy law compliance." },
+      { "title": "Data Breach Prevention", "desc": "Prevent breaches with monitoring and proactive controls." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Banking Client", "desc": "Achieved full GDPR compliance in 10 weeks." },
+    { "title": "Healthcare Group", "desc": "Protected patient data using advanced privacy controls." }
+  ],
+  "resources": [
+    { "title": "Whitepaper", "desc": "Building a Data Privacy Framework" },
+    { "title": "Blog", "desc": "Top Causes of Data Breaches" }
+  ],
+  "whyRiskMan": "Our privacy specialists help organizations implement global privacy frameworks and reduce breach risks.",
+  "relatedOfferings": [
+    { "label": "Cybersecurity", "id": "cybersecurity" },
+    { "label": "IT Risk Management", "id": "it-risk-management" }
+  ],
+  "cta": {
+    "heading": "Protect your organization now",
+    "text": "Get expert guidance on data privacy and compliance.",
+    "button": "Start Now",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is data privacy?", "a": "It involves protecting personal and sensitive information from unauthorized access." },
+    { "q": "Do all businesses need privacy compliance?", "a": "Yes, if they collect or store personal data." }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "logistics-risk-management",
+  "title": "Logistics Risk Management",
+  "meta": {
+    "title": "Logistics Risk Management | RiskMan Consulting",
+    "description": "Streamline operations with RiskMan’s Logistics Risk Management. Ensure supply chain security and compliance.",
+    "primaryKeyword": "Logistics Risk Management",
+    "additionalKeywords": [
+      "Supply Chain Security",
+      "Compliance Solutions",
+      "Risk Mitigation"
+    ],
+    "lsiKeywords": [
+      "Logistics Compliance",
+      "Supply Chain Risk",
+      "Risk Assessment",
+      "Operational Efficiency",
+      "Vendor Security"
+    ]
+  },
+
+  "hero": {
+    "heading": "Streamline Operations With Logistics Risk Management",
+    "subheading": "We secure your supply chain, strengthen compliance, and optimize logistical efficiency.",
+    "ctaText": "Enhance Supply Chain Security",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our logistics risk solutions identify vulnerabilities and build resilient, secure supply chains.",
+    "items": [
+      { "title": "Supply Chain Risk Assessment", "desc": "Analyzing logistics networks for weaknesses and disruptions." },
+      { "title": "Vendor Security Management", "desc": "Evaluating third-party risks and compliance adherence." },
+      { "title": "Operational Efficiency", "desc": "Enhancing processes to improve speed and lower costs." },
+      { "title": "Compliance Frameworks", "desc": "Ensuring adherence to logistics and transport regulations." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Logistics Company", "desc": "Increased efficiency by 25% with optimized workflows." },
+    { "title": "E-Commerce Brand", "desc": "Strengthened vendor compliance across 40+ partners." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "Vendor Risk Management Playbook" },
+    { "title": "Case Study", "desc": "Logistics Optimization for E-Commerce" },
+    { "title": "Blog", "desc": "Top Supply Chain Risks in 2025" }
+  ],
+
+  "whyRiskMan": "We combine logistics expertise with structured risk frameworks to create secure and efficient supply chains.",
+
+  "relatedOfferings": [
+    { "label": "Manufacturing Risk Management", "path": "/services/manufacturing-risk-management" },
+    { "label": "Retail Compliance", "path": "/services/retail-compliance" },
+    { "label": "TPRM", "path": "/services/tprm" }
+  ],
+
+  "cta": {
+    "heading": "Strengthen Your Supply Chain",
+    "text": "Improve logistics performance with our end-to-end risk management solutions.",
+    "button": "Request Logistics Assessment",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "Why is logistics risk management necessary?", "a": "To avoid disruptions, reduce losses, and secure vendor networks." },
+    { "q": "Can you help evaluate third-party logistics vendors?", "a": "Yes, through our TPRM and compliance frameworks." },
+    { "q": "Do you work with e-commerce companies?", "a": "Yes, including large multi-vendor supply chains." }
+  ]
+}

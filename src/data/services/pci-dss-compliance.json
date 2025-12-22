@@ -1,0 +1,49 @@
+{
+  "id": "pci-dss-compliance",
+  "title": "PCI DSS Compliance",
+  "headerImage":"https://devopsstaging.riskman.in/wp-content/uploads/2025/06/online-protection.webp",
+  "meta": {
+    "title": "PCI DSS Compliance Services | RiskMan Consulting",
+    "description": "Secure payments with RiskMan Consulting’s PCI DSS Compliance services. Ensure payment security and data protection.",
+    "primaryKeyword": "PCI DSS Compliance",
+    "additionalKeywords": ["Payment Security", "Data Protection", "Compliance Audit"],
+    "lsiKeywords": ["Cardholder Data", "PCI Standards", "Security Compliance", "Payment Processing", "Audit Readiness"]
+  },
+  "hero": {
+    "heading": "Secure Payments with PCI DSS Compliance",
+    "subheading": "Protect cardholder data and meet global PCI DSS standards.",
+    "ctaText": "Protect Payments",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our PCI DSS services include:",
+    "items": [
+      { "title": "Cardholder Data Protection", "desc": "Safeguard sensitive payment information." },
+      { "title": "PCI Standards Implementation", "desc": "Ensure full compliance with all PCI DSS requirements." },
+      { "title": "Audit Readiness", "desc": "Prepare for compliance audits with gap assessments." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Retail Chain", "desc": "Secured all payment systems and passed PCI audit." },
+    { "title": "E-Commerce Brand", "desc": "Achieved PCI DSS compliance in under 3 months." }
+  ],
+  "resources": [
+    { "title": "Guide", "desc": "Mastering PCI DSS Compliance" },
+    { "title": "Case Study", "desc": "Securing Cardholder Data in Retail" }
+  ],
+  "whyRiskMan": "Our PCI experts ensure seamless compliance through structured assessments, remediation, and audit support.",
+  "relatedOfferings": [
+    { "label": "Cybersecurity", "id": "cybersecurity" },
+    { "label": "Data Privacy", "id": "data-privacy" }
+  ],
+  "cta": {
+    "heading": "Protect Your Payments!",
+    "text": "Contact RiskMan for PCI DSS Compliance support.",
+    "link": "/contact",
+    "button": "Get PCI Support"
+  },
+  "faqs": [
+    { "q": "What is PCI DSS Compliance?", "a": "A global standard ensuring secure handling of payment card data." },
+    { "q": "Who needs PCI DSS?", "a": "Any business handling, processing, or storing cardholder data." }
+  ]
+}

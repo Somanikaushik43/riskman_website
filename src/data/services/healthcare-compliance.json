@@ -1,0 +1,70 @@
+{
+  "id": "healthcare-compliance",
+  "title": "Healthcare Compliance Solutions",
+  "meta": {
+    "title": "Healthcare Compliance Solutions | RiskMan Consulting",
+    "description": "Ensure trust with RiskMan’s Healthcare Compliance services. Protect patient data with privacy and risk management frameworks.",
+    "primaryKeyword": "Healthcare Compliance",
+    "additionalKeywords": [
+      "Data Privacy",
+      "Risk Management",
+      "Regulatory Compliance"
+    ],
+    "lsiKeywords": [
+      "HIPAA Compliance",
+      "Data Security",
+      "Patient Privacy",
+      "Risk Mitigation",
+      "Compliance Framework"
+    ]
+  },
+
+  "hero": {
+    "heading": "Strengthen Trust With Healthcare Compliance",
+    "subheading": "We help hospitals and healthcare platforms secure patient data and meet global compliance requirements.",
+    "ctaText": "Improve Compliance",
+    "ctaLink": "/contact"
+  },
+
+  "offerings": {
+    "intro": "Our Healthcare Compliance services ensure secure and compliant healthcare operations.",
+    "items": [
+      { "title": "HIPAA & Health Data Compliance", "desc": "Ensuring global patient data protection standards." },
+      { "title": "Patient Data Privacy", "desc": "Preventing unauthorized access and breaches." },
+      { "title": "Risk Management Frameworks", "desc": "Reducing operational and cyber risks." },
+      { "title": "Compliance Audits", "desc": "Assessing and improving compliance readiness." }
+    ]
+  },
+
+  "clientSuccess": [
+    { "title": "Hospital Chain", "desc": "Achieved 100% HIPAA compliance in less than 90 days." },
+    { "title": "Digital Health App", "desc": "Reduced risk exposure by 70% using structured frameworks." }
+  ],
+
+  "resources": [
+    { "title": "Guide", "desc": "HIPAA Compliance for Digital Healthcare" },
+    { "title": "Case Study", "desc": "Securing Patient Data Across Large Networks" },
+    { "title": "Blog", "desc": "Why Healthcare Needs Strong Risk Management" }
+  ],
+
+  "whyRiskMan": "We specialize in regulatory compliance, cybersecurity, and patient data protection tailored for healthcare organizations.",
+
+  "relatedOfferings": [
+    { "label": "Data Privacy", "path": "/services/data-privacy" },
+    { "label": "Cybersecurity", "path": "/services/cybersecurity" },
+    { "label": "IT Risk Management", "path": "/services/it-risk-management" }
+  ],
+
+  "cta": {
+    "heading": "Protect Patient Data",
+    "text": "Ensure full healthcare compliance with RiskMan’s proven frameworks.",
+    "button": "Start Compliance Audit",
+    "link": "/contact"
+  },
+
+  "faqs": [
+    { "q": "What is healthcare compliance?", "a": "Healthcare compliance ensures patient data privacy and regulatory adherence." },
+    { "q": "Do you provide HIPAA support?", "a": "Yes, we ensure HIPAA and global health privacy compliance." },
+    { "q": "Why is healthcare risk management important?", "a": "It protects patient trust and reduces cyber threats." }
+  ]
+}

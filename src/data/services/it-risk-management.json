@@ -1,0 +1,49 @@
+{
+  "id": "it-risk-management",
+  "title": "IT Risk Management",
+  "headerImage":"https://www.numata.co/wp-content/uploads/2024/06/img-sg3-our-approach-to-technology-risk-management-mb.webp",
+  "meta": {
+    "title": "IT Risk Management Services | RiskMan Consulting",
+    "description": "Protect IT with RiskMan Consulting’s IT Risk Management services. Ensure cybersecurity risk mitigation and IT compliance.",
+    "primaryKeyword": "IT Risk Management",
+    "additionalKeywords": ["Cybersecurity Risk", "IT Compliance", "Risk Assessment"],
+    "lsiKeywords": ["IT Security", "Risk Mitigation", "Compliance Framework", "IT Governance", "Security Strategy"]
+  },
+  "hero": {
+    "heading": "Strengthen your IT with RiskMan",
+    "subheading": "Our IT Risk Management services protect your systems, data, and operations with advanced cybersecurity frameworks.",
+    "ctaText": "Secure Your IT",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "We deliver comprehensive IT Risk Management solutions designed for secure and compliant operations:",
+    "items": [
+      { "title": "Cybersecurity Risk Assessment", "desc": "Identify and evaluate IT threats across systems and networks." },
+      { "title": "IT Compliance Management", "desc": "Achieve regulatory compliance through structured audit frameworks." },
+      { "title": "IT Governance Strategy", "desc": "Strengthen governance policies for secure IT operations." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Healthcare Provider", "desc": "Reduced IT breaches by 60% with our cybersecurity framework." },
+    { "title": "Insurance Firm", "desc": "Achieved full IT compliance within 8 weeks." }
+  ],
+  "resources": [
+    { "title": "Whitepaper", "desc": "Modern IT Governance Models" },
+    { "title": "Blog", "desc": "Why Cybersecurity Risk Management Is Essential" }
+  ],
+  "whyRiskMan": "RiskMan combines cybersecurity expertise and governance strategy to keep your IT ecosystem secure and compliant.",
+  "relatedOfferings": [
+    { "label": "Cybersecurity Services", "id": "cybersecurity" },
+    { "label": "ITGC & ITAC", "id": "itgc-itac" }
+  ],
+  "cta": {
+    "heading": "Protect your IT infrastructure today",
+    "text": "Get complete IT Risk Management support from certified experts.",
+    "button": "Get Started",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "What is IT Risk Management?", "a": "It identifies, evaluates, and mitigates risks affecting IT systems and data." },
+    { "q": "Does IT risk impact business decisions?", "a": "Yes. Strong IT risk controls reduce downtime, breaches, and compliance issues." }
+  ]
+}

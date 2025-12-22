@@ -1,0 +1,115 @@
+{
+  "id": "manufacturing",
+  "title": "Manufacturing",
+  "headerImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/manufac-1024x357.webp", 
+  "heroTagline": "Digitize operations, protect supply chains, and meet global compliance needs in the changing world.",
+  
+  "introduction": {
+    "title": "Turning Industrial Challenges Into Strategic Resilience",
+    "content": "Modern manufacturing is undergoing rapid transformation—with increasing automation, global supply chains, and stricter compliance expectations. These shifts bring opportunities, but also expose critical vulnerabilities across operations, technology, and regulatory obligations.\n\nRiskMan helps manufacturing companies stay ahead of disruption through proactive risk management, compliance alignment, and digital optimization.",
+    "subImage": "https://devopsstaging.riskman.in/wp-content/uploads/2025/06/manufacturing.webp" 
+  },
+
+  "keyChallenges": {
+    "title": "Key Challenges We Help You Overcome:",
+    "list": [
+      {
+        "icon": "Award",
+        "text": "Stay audit-ready with ISO, TISAX, and other key manufacturing certifications."
+      },
+      {
+        "icon": "Users",
+        "text": "Mitigate third-party risks across global networks with effective TPRM strategies."
+      },
+      {
+        "icon": "Leaf",
+        "text": "Align with ESG goals through expert-led decarbonization and compliance roadmaps."
+      }
+    ]
+  },
+
+  "solutions": {
+    "title": "Our Services for Manufacturing Industry",
+    "list": [
+      {
+        "number": "01",
+        "title": "BCP/DR",
+        "summary": "Plan and recover from disruptions quickly.",
+        "link": "/services/bcp-dr"
+      },
+      {
+        "number": "02",
+        "title": "Data Privacy & Protection",
+        "summary": "Ensure GDPR, CCPA, and regional compliance while building trust with your audience through responsible data practices.",
+        "link": "/services/data-privacy-protection"
+      },
+      {
+        "number": "03",
+        "title": "TPRM",
+        "summary": "Mitigate risks from production houses, ad tech partners, and distribution vendors with robust third-party evaluation frameworks.",
+        "link": "/services/tprm"
+      },
+      {
+        "number": "04",
+        "title": "Consulting",
+        "summary": "Optimize operations and manage transformation with strategic advisory, performance improvement, and process automation.",
+        "link": "/services/consulting"
+      }
+    ]
+  },
+
+  "whyPartner": {
+    "title": "Why Partner with RiskMan",
+    "usps": [
+      { "icon": "Industry", "title": "Industry Experience", "summary": "Deep experience in media risk, tech, and compliance ecosystems" },
+      { "icon": "Global", "title": "Global delivery", "summary": "Global delivery model aligned to regional and international regulations" },
+      { "icon": "Business", "title": "Tailor Solutions", "summary": "Agile consulting and cyber risk strategies tailored to fast-paced environments" },
+      { "icon": "User", "title": "Experienced Professionals", "summary": "Our team comprises experts with extensive experience across various industries." }
+    ]
+  },
+
+  "faq": {
+    "title": "Frequently asked questions",
+    "questions": [
+      {
+        "q": "What cybersecurity risks do media companies face today?",
+        "a": "Threats like ransomware, phishing, and content piracy targeting digital IP and user data."
+      },
+      {
+        "q": "How does RiskMan help with GDPR or regional content compliance?",
+        "a": "We conduct privacy assessments and create compliance roadmaps tailored to local laws."
+      },
+      {
+        "q": "What is Third-Party Risk Management in media?",
+        "a": "Evaluating and managing risks posed by external vendors, agencies, and partners."
+      },
+      {
+        "q": "Do you help with process automation in creative workflows?",
+        "a": "Yes, our consulting services include automation strategies for production, ad ops, and more."
+      },
+      {
+        "q": "Can you help with ISO or SOC certifications for media firms?",
+        "a": "Absolutely. We offer ISO 27001, SOC 2, and other relevant certifications to strengthen governance."
+      },
+      {
+        "q": "How fast can we deploy cybersecurity solutions?",
+        "a": "Depending on scope, quick wins can be delivered within weeks using our pre-built frameworks."
+      },
+      {
+        "q": "What makes RiskMan different from IT firms?",
+        "a": "We combine deep media industry expertise with global regulatory knowledge and risk insight."
+      },
+      {
+        "q": "Do you offer support for international expansion?",
+        "a": "Yes, including regulatory guidance, IT infrastructure review, and compliance alignment."
+      }
+    ]
+  },
+
+  "stats": {
+    "value": "0+",
+    "label": "Clients"
+  },
+  
+  "clientLogos": ["Blinkit-logo-1-1", "Care-Health-Insurance", "Electrosteel-logo", "Emami-logo-2", "Indiatv-logo-1", "Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Khadim-logo-3-150x35", "zomato-logo_brandlogos.net_9msh7"]
+}

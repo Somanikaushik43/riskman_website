@@ -1,0 +1,49 @@
+{
+  "id": "iso-certifications",
+  "title": "ISO Certifications",
+  "headerImage":"https://devopsstaging.riskman.in/wp-content/uploads/2025/06/reporting.webp",
+  "meta": {
+    "title": "ISO Certifications Services | RiskMan Consulting",
+    "description": "Achieve excellence with RiskMan Consulting’s ISO Certifications services. Ensure quality management and ISO standards compliance.",
+    "primaryKeyword": "ISO Certifications",
+    "additionalKeywords": ["Quality Management", "ISO Standards", "Compliance Certification"],
+    "lsiKeywords": ["ISO 9001", "ISO 27001", "Quality Assurance", "Standards Compliance", "Certification Process"]
+  },
+  "hero": {
+    "heading": "Achieve Global Quality Standards with ISO Certification",
+    "subheading": "We guide organizations through ISO 9001, ISO 27001, and more with proven frameworks.",
+    "ctaText": "Begin Certification",
+    "ctaLink": "/contact"
+  },
+  "offerings": {
+    "intro": "Our ISO certification services include:",
+    "items": [
+      { "title": "ISO 9001 Certification", "desc": "Achieve quality management excellence." },
+      { "title": "ISO 27001 Certification", "desc": "Strengthen information security management." },
+      { "title": "Compliance Readiness Assessment", "desc": "Evaluate gaps and prepare for certification audits." }
+    ]
+  },
+  "clientSuccess": [
+    { "title": "Manufacturing Firm", "desc": "Achieved ISO 9001 certification in record time." },
+    { "title": "Tech Enterprise", "desc": "Built a robust ISMS framework for ISO 27001." }
+  ],
+  "resources": [
+    { "title": "Whitepaper", "desc": "ISO 27001 Roadmap" },
+    { "title": "Checklist", "desc": "ISO 9001 Implementation Steps" }
+  ],
+  "whyRiskMan": "RiskMan brings proven certification methods, documentation support, and audit preparation expertise.",
+  "relatedOfferings": [
+    { "label": "SOC Services", "id": "soc-services" },
+    { "label": "IT Risk Management", "id": "it-risk-management" }
+  ],
+  "cta": {
+    "heading": "Become ISO Certified",
+    "text": "Prepare for ISO audits with certified experts.",
+    "button": "Start ISO Journey",
+    "link": "/contact"
+  },
+  "faqs": [
+    { "q": "Which ISO should my business pursue?", "a": "It depends — ISO 9001 for quality, ISO 27001 for security, others for specific needs." },
+    { "q": "How long is certification valid?", "a": "Typically 3 years with annual surveillance audits." }
+  ]
+}
