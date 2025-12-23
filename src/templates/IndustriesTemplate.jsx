@@ -101,7 +101,7 @@ export default function IndustriesTemplate() {
           data = await import(`../../data/industries/${id}.json`);
         } catch {
           try {
-            data = await import(`/src/data/industries/${id}.json`);
+            data = await import(`../../data/industries/${id}.json`);
           } catch {
             data = await import(`@/data/industries/${id}.json`);
           }
