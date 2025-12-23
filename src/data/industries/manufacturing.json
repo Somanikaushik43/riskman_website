@@ -111,5 +111,11 @@
     "label": "Clients"
   },
   
-  "clientLogos": ["Blinkit-logo-1-1", "Care-Health-Insurance", "Electrosteel-logo", "Emami-logo-2", "Indiatv-logo-1", "Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Khadim-logo-3-150x35", "zomato-logo_brandlogos.net_9msh7"]
+  "clientLogos": ["Blinkit-logo-1-1", "Care-Health-Insurance", "Electrosteel-logo", "Emami-logo-2", "Indiatv-logo-1", "Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Khadim-logo-3-150x35", "zomato-logo_brandlogos.net_9msh7"],
+  "cta": {
+  "heading": "Ready to Build Manufacturing Resilience?",
+  "text": "Partner with RiskMan for operational risk management, supply chain security, and compliance solutions for manufacturing excellence.",
+  "button": "Optimize Operations",
+  "link": "/contact"
+}
 }

@@ -16,13 +16,14 @@ import Terms from './pages/resources/Terms'
 import BlogSingle from './pages/blogs/BlogSingle'
 import './App.css'
 import { Toaster } from 'react-hot-toast'
-import SmoothScroll from './components/common/SmoothScroll'
+import SmoothScrollToTop from './components/common/SmoothScroll'
 
 function App() {
 
   return (
     <Router>
-      <SmoothScroll/>
+      <SmoothScrollToTop/>
+      {/* <SmoothScroll/> */}
       <Header/>
       <main className="pt-20">
         <Routes>

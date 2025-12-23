@@ -111,5 +111,11 @@
     "label": "Clients"
   },
   
-  "clientLogos": ["Blinkit-logo-1-1", "Care-Health-Insurance", "Electrosteel-logo", "Emami-logo-2", "Indiatv-logo-1", "Indorama_Ventures_Logo.svg-2", "Jindal-Renewables"]
+  "clientLogos": ["Blinkit-logo-1-1", "Care-Health-Insurance", "Electrosteel-logo", "Emami-logo-2", "Indiatv-logo-1", "Indorama_Ventures_Logo.svg-2", "Jindal-Renewables"],
+  "cta": {
+  "heading": "Ready to Navigate Travel & Logistics Risks?",
+  "text": "Partner with RiskMan for supply chain risk management, compliance, and operational resilience solutions for the travel and logistics sector.",
+  "button": "Optimize Your Operations",
+  "link": "/contact"
+}
 }

@@ -13,7 +13,7 @@
 
 @layer base{
   html, body {
-    @apply font-sans overflow-x-hidden;
+    @apply overflow-x-hidden font-sans;
   }
   
   body{
@@ -113,5 +113,12 @@ button:focus-visible {
 .section-padding {
   @apply py-20 sm:py-24;
 }
+
+html, body {
+  background-color: #05051e;
+  margin: 0;
+  padding: 0;
+}
+
 
 

@@ -107,5 +107,11 @@
     "label": "Companies"
   },
   
-  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Emami-logo-2", "Indiatv-logo-1", "Electrosteel-logo", "Khadim-logo-3-150x35", "Blinkit-logo-1-1"] 
+  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Emami-logo-2", "Indiatv-logo-1", "Electrosteel-logo", "Khadim-logo-3-150x35", "Blinkit-logo-1-1"],
+  "cta": {
+  "heading": "Ready to Drive Innovation in Automotive Risk Management?",
+  "text": "Partner with RiskMan for specialized risk, compliance, and supply chain solutions designed for the automotive industry.",
+  "button": "Get Started Today",
+  "link": "/contact"
+} 
 }

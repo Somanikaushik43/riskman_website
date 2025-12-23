@@ -1,8 +1,9 @@
-"use client";
 import React, { useState, useEffect,useRef } from 'react';
 import { Calculator, PieChart, Palette, Coins, ArrowRight, CheckCircle2,TrendingUp,Building2,Users,Lightbulb,Handshake,Zap,Clock,Target,Award, } from 'lucide-react';
 import HeroSection from '../../components/layout/HeroSection';
 import gsap from 'gsap';
+import { useNavigate } from 'react-router-dom';
+import blogs from "../../data/blogs.json"
 
 
 // Background Grid Component
@@ -87,9 +88,9 @@ const Features = () => {
     ];
 
     return (
-        <section className="relative z-20 py-20 bg-black md:py-28">
+        <section className="relative z-20 py-16 bg-black md:py-10">
             <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-                <div className="grid gap-8 mb-20 text-2xl font-medium tracking-tight lg:grid-cols-3 lg:text-3xl">
+                <div className="grid gap-4 mb-8 text-2xl font-medium tracking-tight lg:grid-cols-3 lg:text-3xl">
                     <div className="text-[#5a5afc]">
                         financial <br />
                         reporting
@@ -164,9 +165,9 @@ const AuditServices = () => {
     ];
 
     return (
-        <div className="min-h-screen py-20 text-white bg-black md:py-28">
+        <div className="text-white bg-black md:py-20">
             <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-                <div className="grid grid-cols-1 gap-8 mb-16 lg:grid-cols-2">
+                <div className="grid grid-cols-1 gap-8 mb-10 lg:grid-cols-2">
                     <div>
                         <p className="mb-4 text-sm tracking-wider text-gray-400">Service</p>
                         <h1 className="text-3xl font-semibold leading-tight text-white md:text-4xl">
@@ -214,10 +215,17 @@ const AuditServices = () => {
                     ))}
                 </div>
 
-                <div className="flex justify-center mt-12">
-                    <button className="px-8 py-4 text-lg font-medium text-white transition-all duration-300 bg-indigo-600 border-2 border-indigo-600 rounded-full hover:bg-white hover:text-indigo-600 hover:border-white">
+                <div className="flex justify-center mt-8">
+                    {/* <button className="px-8 py-4 text-lg font-medium text-white transition-all duration-300 bg-indigo-600 border-2 border-indigo-600 rounded-full hover:bg-white hover:text-indigo-600 hover:border-white">
                         View More
-                    </button>
+                    </button> */}
+
+
+                    <a href="/services" 
+            className="inline-block px-8 py-4 text-lg font-medium text-white transition-all duration-300 ease-in-out bg-black border-2 border-indigo-600 rounded-full hover:bg-indigo-600 hover:border-indigo-600"
+          >
+            View More
+          </a>
                 </div>
             </div>
         </div>
@@ -264,9 +272,9 @@ const RiskCompliance = () => {
     ];
 
     return (
-        <div className="min-h-screen py-20 text-white bg-black md:py-28">
+        <div className="text-white bg-black py-14 md:py-20">
             <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-                <div className="grid items-start grid-cols-1 gap-12 lg:grid-cols-2">
+                <div className="grid items-start grid-cols-1 gap-8 lg:grid-cols-2">
                     <div className="relative">
                         <img 
                             src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&q=80&w=800"
@@ -376,11 +384,11 @@ const IndustrySpecialization = () => {
   ];
 
   return (
-    <section className="py-20 text-white bg-black md:py-28">
+    <section className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
 
         {/* HEADER */}
-        <div className="max-w-2xl mb-16">
+        <div className="max-w-2xl mb-10">
           <p className="mb-4 text-sm tracking-wider text-gray-400">
             Industry Specialization
           </p>
@@ -394,18 +402,18 @@ const IndustrySpecialization = () => {
 
 
            <a 
-            href="/" 
-            className="inline-block px-8 py-4 text-lg font-medium text-white transition-all duration-300 ease-in-out bg-black border-2 border-indigo-600 rounded-full hover:bg-indigo-600 hover:border-indigo-600"
+            href="/industries" 
+            className="inline-block px-6 py-3 mt-4 mb-4 text-base font-medium text-white transition-all duration-300 ease-in-out bg-black border-2 border-indigo-600 rounded-full hover:bg-indigo-600 hover:border-indigo-600"
           >
-            Get in Touch
+            Explore More
           </a>
         </div>
 
         {/* MAIN GRID */}
-        <div className="grid items-start grid-cols-1 gap-12 lg:grid-cols-2">
+        <div className="grid items-start grid-cols-1 gap-8 lg:grid-cols-2">
 
           {/* LEFT – INDUSTRY LIST */}
-          <div className="grid grid-cols-1 gap-6">
+          <div className="grid grid-cols-1 gap-4">
             {industries.map((industry) => (
               <div
                 key={industry.id}
@@ -502,9 +510,9 @@ const KeyServices = () =>{
   };
 
   return (
-    <section className="min-h-screen py-20 text-white bg-black md:py-28">
+    <section className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-        <div className="grid items-start grid-cols-1 gap-12 lg:grid-cols-2">
+        <div className="grid items-start grid-cols-1 gap-8 lg:grid-cols-2">
 
           {/* LEFT SIDE */}
           <div className="lg:sticky lg:top-20">
@@ -599,56 +607,40 @@ const KeyServices = () =>{
 
 
 // Blog Section
+
 const BlogSection = () => {
-    const blogs = [
-        {
-            id: 1,
-            title: "Future of Risk Management",
-            excerpt: "Exploring emerging trends in enterprise risk management and compliance",
-            image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&q=80&w=800",
-            category: "Risk Management",
-            date: "Dec 15, 2024"
-        },
-        {
-            id: 2,
-            title: "Cybersecurity Best Practices",
-            excerpt: "Essential strategies for protecting your organization from cyber threats",
-            image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&q=80&w=800",
-            category: "Cyber Security",
-            date: "Dec 10, 2024"
-        },
-        {
-            id: 3,
-            title: "Regulatory Compliance Guide",
-            excerpt: "Navigate complex regulatory requirements with confidence",
-            image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&q=80&w=800",
-            category: "Compliance",
-            date: "Dec 5, 2024"
-        }
-    ];
+    const navigate = useNavigate();
+
+    // Get the latest 3 blogs
+    const latestBlogs = blogs.slice(0, 3);
+
+    const handleCardClick = (slug) => {
+        navigate(`/blog/${slug}`);
+    };
 
     return (
-        <section className="py-20 bg-black md:py-28">
+        <section className="bg-black py-14 md:py-20">
             <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-                <div className="mb-16 text-center">
+                <div className="mb-10 text-left">
                     <p className="mb-4 text-sm tracking-wider text-gray-400">INSIGHTS</p>
                     <h2 className="mb-6 text-4xl font-bold text-white md:text-5xl">
                         Latest from Our <span className="text-[#5a5afc]">Experts</span>
                     </h2>
-                    <p className="max-w-3xl mx-auto text-lg text-gray-300">
+                    <p className="max-w-3xl text-lg text-gray-300">
                         Stay updated with the latest insights, trends, and best practices in audit, risk management, and compliance
                     </p>
                 </div>
 
-                <div className="grid gap-8 md:grid-cols-3">
-                    {blogs.map((blog) => (
+                <div className="grid gap-6 md:grid-cols-3">
+                    {latestBlogs.map((blog) => (
                         <div
                             key={blog.id}
-                            className="group bg-zinc-900 rounded-2xl overflow-hidden hover:transform hover:-translate-y-2 transition-all duration-300 border border-white/5 hover:border-[#5a5afc]/50"
+                            onClick={() => handleCardClick(blog.slug)}
+                            className="group bg-zinc-900 rounded-2xl overflow-hidden hover:transform hover:-translate-y-2 transition-all duration-300 border border-white/5 hover:border-[#5a5afc]/50 cursor-pointer"
                         >
                             <div className="relative h-64 overflow-hidden">
                                 <img
-                                    src={blog.image}
+                                    src={blog.featuredImage}
                                     alt={blog.title}
                                     className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-110"
                                 />
@@ -663,12 +655,12 @@ const BlogSection = () => {
                                 <h3 className="text-xl font-bold text-white mb-3 group-hover:text-[#5a5afc] transition-colors">
                                     {blog.title}
                                 </h3>
-                                <p className="mb-4 text-sm leading-relaxed text-gray-400">
-                                    {blog.excerpt}
+                                <p className="mb-4 text-sm leading-relaxed text-gray-400 line-clamp-3">
+                                    {blog.shortDescription}
                                 </p>
-                                <button className="flex items-center gap-2 text-[#5a5afc] font-semibold text-sm group-hover:gap-3 transition-all">
+                                <div className="flex items-center gap-2 text-[#5a5afc] font-semibold text-sm group-hover:gap-3 transition-all">
                                     Read More <ArrowRight size={16} />
-                                </button>
+                                </div>
                             </div>
                         </div>
                     ))}
@@ -677,8 +669,6 @@ const BlogSection = () => {
         </section>
     );
 };
-
-
 
 
 const FAQSection=()=> {
@@ -712,14 +702,14 @@ const FAQSection=()=> {
   };
 
   return (
-    <div className="min-h-screen py-20 text-white bg-black md:py-28">
+    <div className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-        <div className="grid items-start gap-16 lg:grid-cols-2">
+        <div className="grid items-start gap-12 lg:grid-cols-2">
           
           {/* Left Side - Header */}
           <div className="lg:sticky lg:top-24">
-            <p className="text-white-400 text-sm mb-4 tracking-[0.2em] uppercase">FAQ</p>
-            <h1 className="mb-8 text-3xl font-bold leading-tight text-white md:text-5xl">
+            <p className="text-white-400 text-sm mb-3 tracking-[0.2em] uppercase">FAQ</p>
+            <h1 className="mb-6 text-3xl font-bold leading-tight text-white md:text-5xl">
               Clarity for<br />
               Your Critical<br />
               Questions
@@ -875,15 +865,15 @@ const  Testimonials=()=> {
   }, [currentIndex]);
 
   return (
-    <section className="py-20 text-white bg-black md:py-28">
+    <section className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
 
         {/* HEADER */}
-        <div className="mb-10 text-start">
-          <p className="text-white-400 text-sm tracking-[0.3em] uppercase mb-4">
+        <div className="mb-8 text-start">
+          <p className="text-white-400 text-sm tracking-[0.3em] uppercase mb-2">
             Testimonials
           </p>
-          <h2 className="mb-4 text-xl font-bold md:text-2xl">
+          <h2 className="mb-3 text-xl font-bold md:text-2xl">
             What Our Clients Say
           </h2>
           <p className="max-w-xl text-white-300">
@@ -1024,10 +1014,10 @@ const AnimatedCounter = ({ target, suffix = "", duration = 2 }) => {
 // VALUE DIFFERENTIATORS SECTION
 const ValueDifferentiators = () => {
   return (
-    <section className="py-20 text-white bg-black md:py-28">
+    <section className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-        <div className="mb-16 text-start">
-          <p className="mb-4 text-sm tracking-wider uppercase text-white-400">
+        <div className="mb-10 text-start">
+          <p className="mb-3 text-sm tracking-wider uppercase text-white-400">
             Our Strengths
           </p>
           <h2 className="mb-4 text-3xl font-bold text-white md:text-4xl">
@@ -1036,20 +1026,20 @@ const ValueDifferentiators = () => {
         </div>
 
         <div className="relative">
-          <div className="absolute top-0 bottom-0 w-px -translate-x-1/2 left-1/2 bg-gradient-to-b from-indigo-200 via-blue-200 to-indigo-200" />
+          <div className="absolute top-0 bottom-0 hidden w-px -translate-x-1/2 md:block left-1/2 bg-gradient-to-b from-indigo-200 via-blue-200 to-indigo-200" />
           
           <div className="grid gap-8 md:grid-cols-2">
             {[
-              { icon: Lightbulb, title: "Enriched domain expertise and experience", color: "bg-yellow-400" },
-              { icon: Handshake, title: "Ease to do business - Flexible to business needs", color: "bg-yellow-400" },
-              { icon: TrendingUp, title: "All Inclusive - Fixed price engagement model", color: "bg-yellow-400" },
-              { icon: Zap, title: "Agile & lean approach in implementation", color: "bg-gray-400" },
-              { icon: Clock, title: "Responsive & quick", color: "bg-yellow-400" },
-              { icon: Target, title: "Focus on process improvement & real business benefits", color: "bg-gray-400" },
-              { icon: Users, title: "Strong focus on building long-term relationships", color: "bg-yellow-400" },
-              { icon: CheckCircle2, title: "We remain with clients throughout the journey", color: "bg-gray-400" },
-              { icon: Award, title: "100% successful implementation", color: "bg-yellow-400" },
-              { icon: Clock, title: "100% on time project completion", color: "bg-gray-400" },
+              { icon: Lightbulb, title: "Enriched domain expertise and experience", color: "bg-indigo-600" },
+              { icon: Handshake, title: "Ease to do business - Flexible to business needs", color: "bg-indigo-600" },
+              { icon: TrendingUp, title: "All Inclusive - Fixed price engagement model", color: "bg-indigo-600" },
+              { icon: Zap, title: "Agile & lean approach in implementation", color: "bg-indigo-600" },
+              { icon: Clock, title: "Responsive & quick", color: "bg-indigo-600" },
+              { icon: Target, title: "Focus on process improvement & real business benefits", color: "bg-indigo-600" },
+              { icon: Users, title: "Strong focus on building long-term relationships", color: "bg-indigo-600" },
+              { icon: CheckCircle2, title: "We remain with clients throughout the journey", color: "bg-indigo-600" },
+              { icon: Award, title: "100% successful implementation", color: "bg-indigo-600" },
+              { icon: Clock, title: "100% on time project completion", color: "bg-indigo-600" },
             ].map((item, i) => {
               const ItemIcon = item.icon;
               return (
@@ -1096,10 +1086,10 @@ const ValueDifferentiators = () => {
 // STATS SECTION
 const StatsSection = () => {
   return (
-    <section className="py-20 text-white bg-black md:py-28">
+    <section className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-        <div className="mb-16 text-center">
-          <p className="mb-4 text-sm tracking-wider text-gray-400 uppercase">
+        <div className="mb-10 text-start">
+          <p className="mb-3 text-sm tracking-wider text-gray-400 uppercase">
             Our Impact
           </p>
           <h2 className="mb-4 text-3xl font-bold text-white md:text-4xl">
@@ -1107,7 +1097,7 @@ const StatsSection = () => {
           </h2>
         </div>
 
-        <div className="grid gap-8 md:grid-cols-4">
+        <div className="grid gap-6 md:grid-cols-4">
           {[
             { number: 15, suffix: "+", label: "Years Experience", icon: TrendingUp, color: "from-indigo-600 to-blue-600" },
             { number: 50, suffix: "+", label: "Industries Served", icon: Building2, color: "from-blue-600 to-indigo-600" },
@@ -1154,10 +1144,10 @@ const StatsSection = () => {
 // WHY RISKMAN SECTION
 const WhyRiskMan = () => {
   return (
-    <section className="py-20 text-white bg-black md:py-28">
+    <section className="text-white bg-black py-14 md:py-20">
       <div className="w-full max-w-[1280px] mx-auto px-6 sm:px-8 md:px-10 lg:px-12">
-        <div className="mb-16 text-start">
-          <p className="mb-4 text-sm tracking-wider text-gray-400 uppercase">
+        <div className="mb-10 text-start">
+          <p className="mb-3 text-sm tracking-wider text-gray-400 uppercase">
             Why Choose Us
           </p>
           <h2 className="mb-8 text-3xl font-bold text-white md:text-4xl">

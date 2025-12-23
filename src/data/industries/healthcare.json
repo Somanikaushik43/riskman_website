@@ -111,5 +111,11 @@
     "label": "Clients"
   },
   
-  "clientLogos": ["Emami-logo-2", "Indiatv-logo-1", "Innovist-logo", "Jindal-Renewables", "Khadim-logo-3-150x35", "Nexval-logo-150x40", "The_World_Bank_logo.svg", "zomato-logo_brandlogos.net_9msh7"] 
+  "clientLogos": ["Emami-logo-2", "Indiatv-logo-1", "Innovist-logo", "Jindal-Renewables", "Khadim-logo-3-150x35", "Nexval-logo-150x40", "The_World_Bank_logo.svg", "zomato-logo_brandlogos.net_9msh7"],
+  "cta": {
+  "heading": "Ready to Transform Healthcare Risk Management?",
+  "text": "Partner with RiskMan for HIPAA compliance, patient data security, and operational risk solutions tailored to healthcare providers.",
+  "button": "Ensure Compliance",
+  "link": "/contact"
+}
 }

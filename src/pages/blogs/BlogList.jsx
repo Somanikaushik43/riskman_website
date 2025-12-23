@@ -1,74 +1,190 @@
+import React from "react";
 import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
+import {
+  FaCalendar,
+  FaClock,
+  FaChevronRight,
+} from "react-icons/fa";
 import blogs from "../../data/blogs.json";
+
+/* =======================
+   ANIMATIONS (SAME STYLE)
+======================= */
+const fadeInUp = {
+  initial: { opacity: 0, y: 30 },
+  animate: { opacity: 1, y: 0 },
+  transition: { duration: 0.6 },
+};
+
+
+const scaleIn = {
+  initial: { opacity: 0, scale: 0.8 },
+  animate: { opacity: 1, scale: 1 },
+  transition: { duration: 0.5, ease: "easeOut" },
+};
+
+const heroStagger = {
+  animate: {
+    transition: { staggerChildren: 0.15 }
+  }
+};
+
+const fadeInUpSoft = {
+  initial: { opacity: 0, y: 24 },
+  animate: { opacity: 1, y: 0 },
+  transition: { duration: 0.7, ease: "easeOut" }
+};
+
+const staggerContainer = {
+  animate: { transition: { staggerChildren: 0.1 } },
+};
+
+
+
 
 export default function BlogList() {
   return (
-    <div className="bg-white text-slate-900">
-      {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-indigo-700 via-purple-700 to-cyan-600 text-white">
-        <div className="absolute inset-0 opacity-20" style={{
-          backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`
-        }} />
-        <div className="relative max-w-7xl mx-auto px-6 sm:px-8 lg:px-10 py-16 lg:py-20 text-center">
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-white/80">Insights</p>
-          <h1 className="mt-4 text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
-            RiskMan Consulting Blog
-          </h1>
-          <p className="mt-6 max-w-3xl mx-auto text-lg md:text-xl text-white/85">
-            Perspectives on risk, compliance, cybersecurity, and digital transformation.
-          </p>
-        </div>
+    <div className="min-h-screen bg-[var(--dark-navy)] text-white overflow-x-hidden">
+      {/* ================= HERO ================= */}
+      <section className="relative overflow-hidden text-center isolate section-padding">
+        {/* <div className="bg-glow-blue absolute top-[-200px] right-[-120px]" /> */}
+
+         <motion.div
+    className="bg-glow-blue absolute top-[-200px] right-[-120px]"
+    animate={{ scale: [1, 1.2, 1], opacity: [0.25, 0.45, 0.25] }}
+    transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
+  />
+        {/* <div className="bg-glow-purple absolute bottom-[-180px] left-[-120px]" /> */}
+
+        <motion.div
+    className="bg-glow-purple absolute bottom-[-180px] left-[-120px]"
+    animate={{ scale: [1, 1.3, 1], opacity: [0.25, 0.5, 0.25] }}
+    transition={{ duration: 7, repeat: Infinity, ease: "easeInOut" }}
+  />
+
+        <motion.div
+          initial="initial"
+          animate="animate"
+          variants={heroStagger}
+          className="relative z-10 max-w-4xl mx-auto"
+        >
+          {/* <p className="text-[var(--accent-blue-light)] uppercase tracking-widest font-semibold mb-4">
+            Insights
+          </p> */}
+
+          <motion.p
+          variants={fadeInUpSoft}
+          className="text-[var(--accent-blue-light)] uppercase tracking-widest font-semibold mb-4"
+         >
+         Insights
+         </motion.p>
+          {/* <h1 className="mb-6 text-5xl font-bold leading-tight md:text-6xl"> */}
+
+          <motion.h1
+      variants={fadeInUpSoft}
+      className="mb-6 text-5xl font-bold leading-tight md:text-6xl"
+    >
+      Knowledge{" "}
+      <motion.span
+        className="gradient-text"
+        animate={{ backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"] }}
+        transition={{ duration: 4, repeat: Infinity, ease: "linear" }}
+        style={{ backgroundSize: "200% 200%" }}
+      >
+        Hub
+      </motion.span>
+    </motion.h1>
+            {/* Knowledge <span className="gradient-text">Hub</span> */}
+          {/* </h1> */}
+          {/* <p className="text-lg text-[var(--text-gray)] max-w-2xl mx-auto">
+            Expert perspectives on risk management, compliance, cybersecurity,
+            and digital transformation.
+          </p> */}
+          <motion.p
+      variants={fadeInUpSoft}
+      className="text-lg text-[var(--text-gray)] max-w-2xl mx-auto"
+    >
+      Expert perspectives on risk management, compliance, cybersecurity,
+      and digital transformation.
+    </motion.p>
+        </motion.div>
       </section>
 
-      {/* Grid */}
-      <section className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10 py-14 lg:py-18">
-        <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-3">
-          {blogs.map((blog, index) => (
-            <article
-              key={blog.id}
-              className="group bg-white rounded-3xl border border-slate-200 shadow-md hover:shadow-2xl hover:-translate-y-1 transition overflow-hidden"
-              style={{ animationDelay: `${index * 0.08}s` }}
-            >
-              <Link to={`/blog/${blog.slug}`} className="block">
-                <div className="overflow-hidden">
-                  <img
-                    src={blog.featuredImage}
-                    alt={blog.title}
-                    className="w-full h-60 object-cover transition duration-500 group-hover:scale-105"
-                  />
-                </div>
-                <div className="p-6 space-y-4">
-                  <div className="flex items-center gap-3 text-sm text-slate-500">
-                    <span className="px-3 py-1 rounded-full bg-indigo-50 text-indigo-700 font-semibold">
-                      {blog.category}
-                    </span>
-                    <span>{blog.date}</span>
-                  </div>
-                  <h3 className="text-2xl font-bold text-slate-900 leading-snug group-hover:text-indigo-600 transition">
-                    {blog.title}
-                  </h3>
-                  <p className="text-slate-600 line-clamp-3">
-                    {blog.shortDescription}
-                  </p>
-                  <div className="pt-2">
-                    <span className="inline-flex items-center gap-1 font-semibold text-indigo-600 group-hover:text-cyan-500 transition">
-                      Read More →
-                    </span>
-                  </div>
-                </div>
-              </Link>
-            </article>
-          ))}
-        </div>
+      {/* ================= BLOG GRID ================= */}
+      <section className="relative section-padding isolate">
+        <div className="container mx-auto max-w-7xl">
+          <motion.div
+            className="grid gap-8 md:grid-cols-2 lg:grid-cols-3"
+            variants={staggerContainer}
+            initial="initial"
+            whileInView="animate"
+            viewport={{ once: true,margin:"-80px" }}
+          >
+            {blogs.map((blog, i) => (
+              <motion.article
+                key={blog.id}
+                variants={scaleIn}
+                transition={{ delay: i * 0.12 }}
+                className="group bg-[var(--dark-navy-light)] rounded-3xl border border-white/5 overflow-hidden shadow-lg hover:shadow-2xl hover:shadow-[var(--accent-blue)]/30 transition-all duration-500"
+              >
+                <Link to={`/blog/${blog.slug}`} className="block h-full">
+                  {/* Image */}
+                  <div className="relative h-56 overflow-hidden">
+                    <motion.img
+                      src={blog.featuredImage}
+                      alt={blog.title}
+                      className="object-cover w-full h-full"
+                      whileHover={{ scale: 1.12 }}
+                      transition={{ duration: 0.6 }}
+                    />
 
-        {/* Simple fade-in helper */}
-        <style>{`
-          @keyframes fadeInUp {
-            0% { opacity: 0; transform: translateY(16px); }
-            100% { opacity: 1; transform: translateY(0); }
-          }
-          article { animation: fadeInUp 0.6s ease forwards; opacity: 0; }
-        `}</style>
+                    <div className="absolute top-4 left-4 px-3 py-1 rounded-full bg-gradient-to-r from-[var(--accent-blue)] to-[var(--accent-purple)] text-xs font-bold">
+                      {blog.category}
+                    </div>
+                  </div>
+
+                  {/* Content */}
+                  <div className="flex flex-col h-full p-6">
+                    <h3 className="text-xl font-bold mb-3 group-hover:text-[var(--accent-blue-light)] transition">
+                      {blog.title}
+                    </h3>
+
+                    <p className="text-[var(--text-gray)] mb-5 line-clamp-3">
+                      {blog.shortDescription}
+                    </p>
+
+                    <div className="flex items-center justify-between text-xs text-[var(--text-gray)] mb-5">
+                      <div className="flex items-center gap-2">
+                        <FaCalendar size={12} />
+                        {blog.date}
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <FaClock size={12} />
+                        {blog.readTime}
+                      </div>
+                    </div>
+
+                    <div className="mt-auto flex items-center font-bold text-[var(--accent-blue-light)] group-hover:text-white transition">
+                      Read More
+                      <motion.span
+                        className="ml-2"
+                        animate={{ x: [0, 6, 0] }}
+                        transition={{
+                          duration: 1.5,
+                          repeat: Infinity,
+                          ease: "easeInOut",
+                        }}
+                      >
+                        <FaChevronRight size={14} />
+                      </motion.span>
+                    </div>
+                  </div>
+                </Link>
+              </motion.article>
+            ))}
+          </motion.div>
+        </div>
       </section>
     </div>
   );

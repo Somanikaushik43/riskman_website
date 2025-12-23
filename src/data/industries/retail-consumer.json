@@ -111,5 +111,11 @@
     "label": "Clients"
   },
   
-  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Emami-logo-2", "Jindal-Renewables", "Electrosteel-logo", "Indiatv-logo-1", "Care-Health-Insurance", "Blinkit-logo-1-1", "zomato-logo_brandlogos.net_9msh7", "Khadim-logo-3-150x35"]
+  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Emami-logo-2", "Jindal-Renewables", "Electrosteel-logo", "Indiatv-logo-1", "Care-Health-Insurance", "Blinkit-logo-1-1", "zomato-logo_brandlogos.net_9msh7", "Khadim-logo-3-150x35"],
+  "cta": {
+  "heading": "Ready to Secure Your Retail Operations?",
+  "text": "Partner with RiskMan for PCI compliance, fraud prevention, and operational risk solutions that protect your retail business.",
+  "button": "Secure Your Store",
+  "link": "/contact"
+}
 }

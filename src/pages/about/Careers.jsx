@@ -2,7 +2,7 @@ import React from "react";
 import PageBanner from "../../components/layout/PageBanner";
 import { ArrowRight } from "lucide-react";
 
-export default function About() {
+export default function Careers() {
   return (
     <div className="w-full">
 

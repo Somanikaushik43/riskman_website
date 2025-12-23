@@ -308,7 +308,7 @@ export default function Footer() {
                     {[
                       ["About Us", "/about"],
                       ["Leadership Team", "/about/leadership"],
-                      ["Careers", "/careers"],
+                      ["Careers", "/about/careers"],
                       ["Blogs", "/blog"],
                       ["Privacy Policy", "/privacy-policy"],
                       ["Terms of Use", "/terms"],

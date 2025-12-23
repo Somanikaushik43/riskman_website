@@ -99,5 +99,11 @@
     "label": "Year’s of experience"
   },
   
-  "clientLogos": ["Blinkit", "Care-Health-Insurance", "Electrosteel", "Emami", "Jindal-Renewables"] 
+  "clientLogos": ["Blinkit", "Care-Health-Insurance", "Electrosteel", "Emami", "Jindal-Renewables"],
+  "cta":{
+    "heading": "Ready to Strengthen Your Financial Institution's Resilience?",
+    "text": "Partner with RiskMan for industry-leading risk management, compliance, and cybersecurity solutions tailored to banking and insurance.",
+    "button": "Schedule a Consultation",
+    "link": "/contact"
+  }
 }

@@ -33,6 +33,25 @@ export default function Header() {
   const [mobileDropdownOpen, setMobileDropdownOpen] = useState({});
   const [scrolled, setScrolled] = useState(false);
   const closeTimeoutRef = useRef(null);
+  const [selected,setSelected]=useState(false);
+
+  
+useEffect(() => {
+  const changeNavbarRoutes = [
+    "/services",
+    "/industries",
+    "/about",
+    "/contact",
+    "/insights",
+  ];
+
+  const shouldChangeNavbar = changeNavbarRoutes.some((route) =>
+    location.pathname.startsWith(route)
+  );
+
+  setSelected(shouldChangeNavbar);
+}, [location.pathname]);
+
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 10);
@@ -91,8 +110,8 @@ export default function Header() {
   return (
     <header
       className={`fixed top-0 left-0 w-full z-[100] transition-all duration-300 ${
-        scrolled
-          ? "bg-black"
+        selected ? "bg-black":scrolled
+          ? "bg-[#05051e]"
           : "bg-[#05051e]"
       }`}
     >
@@ -108,9 +127,9 @@ export default function Header() {
             }}
           >
             <img
-              src="./rm.png"
+              src="./riskman-logo-white.svg"
               alt="RiskMan Logo"
-              className="object-contain w-auto h-10 md:h-12"
+              className="object-contain w-20 h-auto md:h-auto md:w-32"
             />
           </Link>
 
@@ -155,7 +174,7 @@ export default function Header() {
                     onMouseLeave={handleMenuLeave}
                   >
                     <button 
-                      className="flex items-center gap-1 text-sm font-medium transition-colors duration-200 text-slate-700 hover:text-indigo-600"
+                      className="flex items-center gap-1 text-sm font-medium text-white transition-colors duration-200 hover:text-indigo-600"
                     >
                       {item.label}
                       <ChevronDown
@@ -252,7 +271,7 @@ export default function Header() {
 
           {/* MOBILE MENU BUTTON */}
           <button
-            className="relative p-2.5 rounded-lg md:hidden text-slate-700 hover:bg-slate-100 transition-colors"
+            className="relative p-2.5 rounded-lg md:hidden text-white hover:bg-white/10 transition-colors"
             onClick={toggleMobile}
             aria-label="Toggle menu"
           >
@@ -276,7 +295,7 @@ export default function Header() {
             exit="exit"
             className="overflow-hidden bg-white border-t shadow-xl md:hidden border-slate-200"
           >
-            <div className="px-4 sm:px-6 py-4 space-y-1 max-h-[calc(100vh-80px)] overflow-y-auto">
+            <div className="px-4 sm:px-6 py-4 space-y-1 max-h-[calc(100vh-72px)] overflow-y-auto">
               {mainNav.map((item, idx) => {
                 // SIMPLE LINK
                 if (item.type === "link") {

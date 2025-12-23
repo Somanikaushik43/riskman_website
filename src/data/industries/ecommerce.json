@@ -111,5 +111,11 @@
     "label": "Clients"
   },
   
-  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Emami-logo-2", "Electrosteel-logo", "zomato-logo_brandlogos.net_9msh7", "Khadim-logo-3-150x35", "Indiatv-logo-1", "Care-Health-Insurance", "Blinkit-logo-1-1"] 
+  "clientLogos": ["Indorama_Ventures_Logo.svg-2", "Jindal-Renewables", "Emami-logo-2", "Electrosteel-logo", "zomato-logo_brandlogos.net_9msh7", "Khadim-logo-3-150x35", "Indiatv-logo-1", "Care-Health-Insurance", "Blinkit-logo-1-1"] ,
+  "cta": {
+  "heading": "Ready to Secure Your E-Commerce Growth?",
+  "text": "Partner with RiskMan for cybersecurity, fraud prevention, and compliance solutions that protect your digital business.",
+  "button": "Protect Your Business",
+  "link": "/contact"
+}
 }
